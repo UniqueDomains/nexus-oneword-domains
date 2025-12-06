@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .NEXUS one-word domains still available to buy.
 
-This dataset contains 4,854 .NEXUS one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,853 .NEXUS one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.NEXUS one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=nexus-oneword-domains&utm_content=description.top) (4,855) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -21,8 +21,8 @@ If you want to search & filters the complete database of [.NEXUS one word domain
 
 | Domain           | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | ---------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.nexus        | available | 70       | 38%    | 3      |           |         |         |
-| aaron.nexus      | available | 88       | 32%    | 5      |           |         |         |
+| aaa.nexus        | premium   | 70       | 38%    | 3      |           |         |         |
+| aaron.nexus      | premium   | 88       | 32%    | 5      |           |         |         |
 | abactinal.nexus  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.nexus      | available | 43       | 2%     | 5      |           |         |         |
 | abandoned.nexus  | premium   | 58       | 7%     | 9      |           |         |         |
@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.NEXUS one word domain
 | abatic.nexus     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.nexus    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.nexus   | available | 50       | 1%     | 8      |           |         |         |
-| abc.nexus        | available | 102      | 41%    | 3      |           |         |         |
+| abc.nexus        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.nexus  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.nexus  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.nexus | available | 56       | 1%     | 10     |           |         |         |
