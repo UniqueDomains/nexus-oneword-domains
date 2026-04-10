@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .nexus one-word domains fro
 
 **Public extract:** 9,741 rows · **Live catalog:** 5,621,926 domains
 
-**Last updated:** 2026-04-09  
+**Last updated:** 2026-04-10  
 **Canonical page:** `https://unique.domains/domains/tld/nexus`  
 **Best for:** founders, investors, studios
 
@@ -24,24 +24,18 @@ Daily-updated public extract of available and resale .nexus one-word domains fro
 
 <p align="center">
   <a href="https://unique.domains/domains/tld/nexus?utm_source=github&utm_medium=referral&utm_campaign=repo_nexus_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
-  <a href="https://unique.domains/domains/tld/nexus?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_nexus_oneword_domains&utm_content=top_create_radar"><b>🔔 Create Radar</b></a> ·
-  <a href="https://unique.domains/domains/tld/nexus?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_nexus_oneword_domains&utm_content=top_start_project"><b>🚀 Start a Project</b></a> ·
   <b>⬇️ Download sample</b>: <a href="./nexus.csv">CSV</a> / <a href="./nexus.json">JSON</a>
-</p>
-
-<p align="center">
-  <a href="https://unique.domains/technology?utm_source=github&utm_medium=referral&utm_campaign=repo_nexus_oneword_domains&utm_content=top_methodology">Methodology</a> ·
-  <a href="https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_nexus_oneword_domains&utm_content=top_api_docs">API docs</a>
+  · <a href="https://unique.domains/technology?utm_source=github&utm_medium=referral&utm_campaign=repo_nexus_oneword_domains&utm_content=top_methodology"><b>🧪 Methodology</b></a>
+  · <a href="https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_nexus_oneword_domains&utm_content=top_api_docs"><b>🧰 API docs</b></a>
 </p>
 
 ---
 
-> This repo is the sample. The live product keeps the exact search context and adds saved workflows, deeper filters, and richer price, demand, and risk context.
+➡️ **Investors:** [Create a Radar from this .NEXUS search](https://unique.domains/domains/tld/nexus?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_nexus_oneword_domains&utm_content=top_create_radar)  
+➡️ **Founders:** [Start a Project from this .NEXUS search](https://unique.domains/domains/tld/nexus?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_nexus_oneword_domains&utm_content=top_start_project)  
+➡️ **Builders:** [Connect to our API](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_nexus_oneword_domains&utm_content=top_api_docs)
 
-**Choose your next step**
-- **Investors:** [Create a Radar from this exact .NEXUS search](https://unique.domains/domains/tld/nexus?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_nexus_oneword_domains&utm_content=top_create_radar)
-- **Founders:** [Start a Project from this exact .NEXUS search](https://unique.domains/domains/tld/nexus?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_nexus_oneword_domains&utm_content=top_start_project)
-- **Researchers / builders:** [Download CSV](./nexus.csv) or [Download JSON](./nexus.json)
+---
 
 ## 📦 What this repository contains
 
@@ -56,18 +50,6 @@ This repository is the public extract for Unique Domains' .NEXUS one-word domain
 - `CHANGELOG.md` — latest snapshot metadata
 - `CITATION.cff` — machine-readable dataset citation metadata
 - `LICENSE` — terms for the public extract
-
-## Why leave GitHub?
-
-| GitHub extract          | Live product                                     |
-| ----------------------- | ------------------------------------------------ |
-| 9,741-row public sample | 5,621,926 live domains                           |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
-
-If this sample already feels useful, the live product is where the exact search becomes a workflow.
 
 ## 🧭 Quick start
 
@@ -86,7 +68,7 @@ print(df.head())
 | united.nexus     | resell    | —         | —             | 74             | 43     | 6      | Porkbun LLC |
 | easy.nexus       | premium   | $1,248.75 | $1,248.75     | 128            | 68     | 4      | name.com    |
 | athletics.nexus  | available | $15.98    | —             | 69             | 52     | 9      | namecheap   |
-| power.nexus      | premium   | $1,298.70 | $1,298.70     | 98             | 64     | 5      | namecheap   |
+| power.nexus      | premium   | $1,298.70 | $1,298.70     | 98             | 62     | 5      | namecheap   |
 | curative.nexus   | available | $15.98    | —             | 92             | 27     | 8      | namecheap   |
 | seventeen.nexus  | premium   | $36.25    | $36.25        | 84             | 62     | 9      | name.com    |
 | remedial.nexus   | available | $15.98    | —             | 86             | 24     | 8      | namecheap   |
@@ -95,11 +77,11 @@ print(df.head())
 | cloud.nexus      | premium   | $1,298.70 | $1,298.70     | 70             | 58     | 5      | namecheap   |
 | cooked.nexus     | available | $15.98    | —             | 70             | 21     | 6      | namecheap   |
 | ace.nexus        | premium   | $161.25   | $161.25       | 88             | 57     | 3      | name.com    |
-| abide.nexus      | available | $15.98    | —             | 94             | 20     | 5      | namecheap   |
-| good.nexus       | premium   | $623.75   | $623.75       | 82             | 55     | 4      | name.com    |
 | virtuoso.nexus   | available | $15.98    | —             | 94             | 20     | 8      | namecheap   |
-| business.nexus   | premium   | $1,298.70 | $1,298.70     | 100            | 54     | 8      | namecheap   |
+| good.nexus       | premium   | $623.75   | $623.75       | 82             | 55     | 4      | name.com    |
 | diligent.nexus   | available | $15.98    | —             | 68             | 20     | 8      | namecheap   |
+| business.nexus   | premium   | $1,298.70 | $1,298.70     | 100            | 53     | 8      | namecheap   |
+| abide.nexus      | available | $15.98    | —             | 94             | 18     | 5      | namecheap   |
 | fast.nexus       | premium   | $623.75   | $623.75       | 82             | 53     | 4      | name.com    |
 | masterly.nexus   | available | $15.98    | —             | 79             | 18     | 8      | namecheap   |
 
@@ -107,7 +89,17 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 ## 🚀 Next move
 
-You are seeing the public sample. The live product keeps the exact search context and adds saved workflows, deeper filters, and alerting.
+You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
+
+| GitHub extract          | Unique Domains                                   |
+| ----------------------- | ------------------------------------------------ |
+| 9,741-row public sample | 5,621,926 live domains                           |
+| Static CSV / JSON       | live search and daily refresh                    |
+| Basic exported fields   | deeper price, demand, risk, and workflow context |
+| No persistence          | Radar, saved search, and alerts                  |
+| No founder workflow     | Project, shortlist, and next-step workflow       |
+
+If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
 [Create Radar](https://unique.domains/domains/tld/nexus?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_nexus_oneword_domains&utm_content=top_create_radar) · [Start Project](https://unique.domains/domains/tld/nexus?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_nexus_oneword_domains&utm_content=top_start_project) · [See pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_nexus_oneword_domains&utm_content=related_pricing)
 
@@ -134,7 +126,7 @@ This repository follows the exact public search represented by the canonical pag
 - Counts, prices, and statuses can change over time.
 - Scores are decision-support signals, not guarantees of resale value.
 - Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- The live product contains deeper filters, monitoring, and decision workflows than this public extract.
+- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -151,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .NEXUS One-Word Domains*. Version 2026-04-09. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .NEXUS One-Word Domains*. Version 2026-04-10. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
@@ -166,4 +158,4 @@ GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
 ## 📬 Contact
 
-Questions, corrections, or partnership requests: `hello@unique.domains`
+Questions, corrections, or partnership requests: `gaetan@unique.domains`
