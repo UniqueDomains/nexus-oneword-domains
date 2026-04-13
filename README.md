@@ -72,17 +72,17 @@ print(df.head())
 | curative.nexus   | available | $15.98    | —             | 92             | 27     | 8      | namecheap   |
 | seventeen.nexus  | premium   | $36.25    | $36.25        | 84             | 62     | 9      | name.com    |
 | remedial.nexus   | available | $15.98    | —             | 86             | 24     | 8      | namecheap   |
-| free.nexus       | premium   | $623.75   | $623.75       | 88             | 59     | 4      | name.com    |
-| neutral.nexus    | available | $15.98    | —             | 92             | 22     | 7      | namecheap   |
 | cloud.nexus      | premium   | $1,298.70 | $1,298.70     | 70             | 58     | 5      | namecheap   |
-| cooked.nexus     | available | $15.98    | —             | 70             | 21     | 6      | namecheap   |
+| neutral.nexus    | available | $15.98    | —             | 92             | 22     | 7      | namecheap   |
 | ace.nexus        | premium   | $161.25   | $161.25       | 88             | 57     | 3      | name.com    |
+| cooked.nexus     | available | $15.98    | —             | 70             | 20     | 6      | namecheap   |
+| free.nexus       | premium   | $623.75   | $623.75       | 88             | 57     | 4      | name.com    |
 | diligent.nexus   | available | $15.98    | —             | 68             | 20     | 8      | namecheap   |
 | good.nexus       | premium   | $623.75   | $623.75       | 82             | 55     | 4      | name.com    |
 | virtuoso.nexus   | available | $15.98    | —             | 94             | 19     | 8      | namecheap   |
 | business.nexus   | premium   | $1,298.70 | $1,298.70     | 100            | 53     | 8      | namecheap   |
 | abide.nexus      | available | $15.98    | —             | 94             | 18     | 5      | namecheap   |
-| fast.nexus       | premium   | $623.75   | $623.75       | 82             | 53     | 4      | name.com    |
+| true.nexus       | premium   | $623.75   | $623.75       | 86             | 52     | 4      | name.com    |
 | masterly.nexus   | available | $15.98    | —             | 79             | 18     | 8      | namecheap   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
