@@ -1,10 +1,10 @@
-# Available .NEXUS One-Word Domains (12,238)
+# Available .NEXUS One-Word Domains (12,721)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C238%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C721%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .nexus one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,238 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,721 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,238 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,721 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/nexus`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| Chanel.nexus        | available | $15.98    | —             | 80             | 77     | 6      | namecheap |
-| insight.nexus       | premium   | $311.25   | —             | 76             | 69     | 8      | name.com  |
-| RedSox.nexus        | available | $15.98    | —             | 72             | 60     | 7      | namecheap |
-| travelers.nexus     | premium   | $161.25   | —             | 58             | 61     | 9      | name.com  |
-| neuroscience.nexus  | available | $15.98    | —             | 80             | 37     | 12     | namecheap |
-| robots.nexus        | premium   | $1,248.75 | —             | 62             | 47     | 6      | name.com  |
-| rivals.nexus        | available | $15.98    | —             | 48             | 20     | 6      | namecheap |
-| jobs.nexus          | premium   | $1,248.75 | —             | 79             | 42     | 4      | name.com  |
-| breakingnews.nexus  | available | $15.98    | —             | 66             | 19     | 13     | namecheap |
-| Tools.nexus         | premium   | $698.60   | $698.60       | 56             | 40     | 5      | namecheap |
-| outofoffice.nexus   | available | $15.98    | —             | 61             | 19     | 13     | namecheap |
-| justin.nexus        | premium   | $311.25   | —             | 58             | 38     | 7      | name.com  |
-| enlightenment.nexus | available | $15.98    | —             | 62             | 18     | 13     | namecheap |
-| events.nexus        | premium   | $623.75   | —             | 68             | 37     | 6      | name.com  |
-| whitewater.nexus    | available | $15.98    | —             | 82             | 17     | 11     | namecheap |
-| homes.nexus         | premium   | $623.75   | —             | 86             | 34     | 5      | name.com  |
-| goviral.nexus       | available | $15.98    | —             | 76             | 17     | 8      | namecheap |
-| tickets.nexus       | premium   | $623.75   | —             | 64             | 34     | 7      | name.com  |
-| Sundays.nexus       | available | $15.98    | —             | 61             | 17     | 7      | namecheap |
-| spectra.nexus       | premium   | $161.25   | —             | 62             | 34     | 7      | name.com  |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| Chanel.nexus       | available | $15.98    | —             | 80             | 77     | 6      | namecheap |
+| insight.nexus      | premium   | $311.25   | —             | 76             | 69     | 8      | name.com  |
+| RedSox.nexus       | available | $15.98    | —             | 72             | 60     | 7      | namecheap |
+| travelers.nexus    | premium   | $161.25   | —             | 58             | 61     | 9      | name.com  |
+| rivals.nexus       | available | $15.98    | —             | 48             | 20     | 6      | namecheap |
+| robots.nexus       | premium   | $1,248.75 | —             | 62             | 47     | 6      | name.com  |
+| breakingnews.nexus | available | $15.98    | —             | 66             | 19     | 13     | namecheap |
+| jobs.nexus         | premium   | $1,248.75 | —             | 79             | 42     | 4      | name.com  |
+| outofoffice.nexus  | available | $15.98    | —             | 61             | 19     | 13     | namecheap |
+| Tools.nexus        | premium   | $698.60   | $698.60       | 56             | 40     | 5      | namecheap |
+| whitewater.nexus   | available | $15.98    | —             | 82             | 17     | 11     | namecheap |
+| events.nexus       | premium   | $623.75   | —             | 68             | 37     | 6      | name.com  |
+| Sundays.nexus      | available | $15.98    | —             | 61             | 17     | 7      | namecheap |
+| homes.nexus        | premium   | $623.75   | —             | 86             | 34     | 5      | name.com  |
+| bonvoyage.nexus    | available | $15.98    | —             | 88             | 16     | 10     | namecheap |
+| tickets.nexus      | premium   | $623.75   | —             | 64             | 34     | 7      | name.com  |
+| dataflow.nexus     | available | $15.98    | —             | 70             | 16     | 9      | namecheap |
+| Cats.nexus         | premium   | $1,398.60 | $1,398.60     | 59             | 33     | 4      | namecheap |
+| calculators.nexus  | available | $15.98    | —             | 54             | 16     | 11     | namecheap |
+| payments.nexus     | premium   | $1,248.75 | —             | 58             | 33     | 8      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,238 live domains                              |
+| 1,000-row public sample | 12,721 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .NEXUS One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .NEXUS One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
