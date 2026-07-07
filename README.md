@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .nexus one-word domains fro
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,721 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,721 domains · **Median ask:** $78.25 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,721 domains · **Median ask:** $115.55 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/nexus`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/nexus`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .NEXUS one-word domain
 
 ### Files
 
-- `nexus.csv` — public CSV extract (1,000 rows)
-- `nexus.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `nexus.csv`, public CSV extract (1,000 rows)
+- `nexus.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| Chanel.nexus       | available | $15.98    | —             | 80             | 77     | 6      | namecheap |
-| insight.nexus      | premium   | $311.25   | —             | 76             | 69     | 8      | name.com  |
-| RedSox.nexus       | available | $15.98    | —             | 72             | 60     | 7      | namecheap |
-| travelers.nexus    | premium   | $161.25   | —             | 58             | 61     | 9      | name.com  |
-| rivals.nexus       | available | $15.98    | —             | 48             | 20     | 6      | namecheap |
-| robots.nexus       | premium   | $1,248.75 | —             | 62             | 47     | 6      | name.com  |
-| breakingnews.nexus | available | $15.98    | —             | 66             | 19     | 13     | namecheap |
-| jobs.nexus         | premium   | $1,248.75 | —             | 79             | 42     | 4      | name.com  |
-| outofoffice.nexus  | available | $15.98    | —             | 61             | 19     | 13     | namecheap |
-| Tools.nexus        | premium   | $698.60   | $698.60       | 56             | 40     | 5      | namecheap |
-| whitewater.nexus   | available | $15.98    | —             | 82             | 17     | 11     | namecheap |
-| events.nexus       | premium   | $623.75   | —             | 68             | 37     | 6      | name.com  |
-| Sundays.nexus      | available | $15.98    | —             | 61             | 17     | 7      | namecheap |
-| homes.nexus        | premium   | $623.75   | —             | 86             | 34     | 5      | name.com  |
-| bonvoyage.nexus    | available | $15.98    | —             | 88             | 16     | 10     | namecheap |
-| tickets.nexus      | premium   | $623.75   | —             | 64             | 34     | 7      | name.com  |
-| dataflow.nexus     | available | $15.98    | —             | 70             | 16     | 9      | namecheap |
-| Cats.nexus         | premium   | $1,398.60 | $1,398.60     | 59             | 33     | 4      | namecheap |
-| calculators.nexus  | available | $15.98    | —             | 54             | 16     | 11     | namecheap |
-| payments.nexus     | premium   | $1,248.75 | —             | 58             | 33     | 8      | name.com  |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| content.nexus | premium   | $311.25   | $311.25       | high           | low    | 7      | name.com  |
+| flee.nexus    | available | $15.98    | —             | medium         | low    | 4      | namecheap |
+| ada.nexus     | premium   | $311.25   | —             | medium         | medium | 3      | name.com  |
+| Jody.nexus    | available | $15.98    | —             | high           | low    | 4      | namecheap |
+| awe.nexus     | premium   | $73.75    | —             | high           | low    | 3      | name.com  |
+| numb.nexus    | available | $15.98    | —             | high           | low    | 4      | namecheap |
+| bag.nexus     | premium   | $623.75   | —             | high           | low    | 3      | name.com  |
+| pail.nexus    | available | $15.98    | —             | high           | low    | 4      | namecheap |
+| bee.nexus     | premium   | $623.75   | —             | high           | medium | 3      | name.com  |
+| yawn.nexus    | available | $15.98    | —             | medium         | low    | 4      | namecheap |
+| ben.nexus     | premium   | $623.75   | —             | high           | medium | 3      | name.com  |
+| aftuh.nexus   | available | $15.98    | —             | medium         | low    | 5      | namecheap |
+| dip.nexus     | premium   | $161.25   | $161.25       | high           | low    | 3      | name.com  |
+| annoy.nexus   | available | $15.98    | —             | high           | low    | 5      | namecheap |
+| due.nexus     | premium   | $311.25   | —             | high           | low    | 3      | name.com  |
+| baggy.nexus   | available | $15.98    | —             | high           | low    | 5      | namecheap |
+| Eid.nexus     | premium   | $311.25   | —             | high           | low    | 3      | name.com  |
+| balmy.nexus   | available | $15.98    | —             | high           | low    | 5      | namecheap |
+| fix.nexus     | premium   | $623.75   | —             | medium         | low    | 3      | name.com  |
+| canon.nexus   | available | $15.98    | —             | high           | medium | 5      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection focuses only on one-word .nexus domains. The names range from clean, broad terms such as draw.nexus and content.nexus to more specific or abstract options like criterion.nexus, delicate.nexus, and amiss.nexus. For founders, the main question is whether the word is easy to say, easy to remember, and credible on a .nexus ending. For investors, the key check is whether the ask leaves room relative to the word’s clarity and commercial use. With a median ask of 78.25, the set is broadly accessible, but quality still varies sharply by word strength, versatility, and possible trademark exposure.
+This list contains 12,721 one-word domain names on the .nexus extension, with a median asking price near $115.55. Names like FinalFour.nexus, shoparound.nexus, and cuddleup.nexus show the style: short, expressive, single-word phrases that read naturally as brands. Because .nexus is a newer extension, pricing tends to stay accessible while still offering room for distinctive, ownable names across many themes — from lifestyle terms to descriptive action phrases.
 
-- Favor clear dictionary words with broad commercial use
-- Check ask price against word strength and memorability
-- Treat obscure or awkward verbs as higher-risk picks
-- Review trademark overlap before choosing a name
+- 12,721 one-word .nexus domains available for comparison
+- Median asking price near $116 per domain
+- Examples: homes.nexus, pictures.nexus, cuddleup.nexus
+- Short, brandable, single-word style throughout
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .NEXUS One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .NEXUS One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
