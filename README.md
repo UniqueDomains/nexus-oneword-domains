@@ -1,10 +1,10 @@
-# Available .NEXUS One-Word Domains (27,254)
+# Available .NEXUS One-Word Domains (29,693)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-27%2C254%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-29%2C693%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .nexus one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **27,254 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **29,693 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 27,254 domains · **Median ask:** $74.61 · **High-demand under $2,500:** 64
+**Public extract:** 1,000 rows · **Live catalog:** 29,693 domains · **Median ask:** $70.29 · **High-demand under $2,500:** 68
 
-**Last updated:** 2026-09-29
+**Last updated:** 2026-09-30
 **Canonical page:** `https://unique.domains/domains/tld/nexus`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| abbe.nexus | available | $12.98    | $15.98        | medium         | low    | 4      | namecheap |
-| aba.nexus  | premium   | $76.70    | $76.70        | high           | low    | 3      | namecheap |
-| aken.nexus | available | $12.98    | $15.98        | medium         | low    | 4      | namecheap |
-| aga.nexus  | premium   | $76.70    | $76.70        | high           | low    | 3      | namecheap |
-| amer.nexus | available | $10.52    | $10.52        | medium         | low    | 4      | spaceship |
-| age.nexus  | premium   | $323.70   | $323.70       | high           | low    | 3      | namecheap |
-| asio.nexus | available | $12.98    | $15.98        | medium         | low    | 4      | namecheap |
-| ans.nexus  | premium   | $323.70   | $323.70       | medium         | low    | 3      | namecheap |
-| atar.nexus | available | $12.98    | $15.98        | medium         | low    | 4      | namecheap |
-| bib.nexus  | premium   | $76.70    | $76.70        | high           | low    | 3      | namecheap |
-| bmus.nexus | available | $12.98    | $15.98        | medium         | low    | 4      | namecheap |
-| bug.nexus  | premium   | $516.67   | $516.67       | high           | low    | 3      | spaceship |
-| bosh.nexus | available | $12.98    | $15.98        | medium         | low    | 4      | namecheap |
-| buy.nexus  | premium   | $1,298.70 | $1,298.70     | high           | medium | 3      | namecheap |
-| flit.nexus | available | $12.98    | $15.98        | high           | low    | 4      | namecheap |
-| cnn.nexus  | premium   | $161.25   | —             | high           | low    | 3      | name.com  |
-| gamy.nexus | available | $12.98    | $15.98        | medium         | low    | 4      | namecheap |
-| din.nexus  | premium   | $311.25   | $311.25       | medium         | low    | 3      | name.com  |
-| genu.nexus | available | $12.98    | $15.98        | medium         | low    | 4      | namecheap |
-| gag.nexus  | premium   | $73.75    | —             | high           | low    | 3      | name.com  |
+| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
+| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
+| aken.nexus | available | $12.98    | $15.98        | high           | low    | 4      | namecheap   |
+| aba.nexus  | premium   | $76.70    | $76.70        | high           | low    | 3      | namecheap   |
+| amer.nexus | available | $10.52    | $10.52        | medium         | low    | 4      | spaceship   |
+| aga.nexus  | premium   | $76.70    | $76.70        | high           | low    | 3      | namecheap   |
+| asio.nexus | available | $12.98    | $15.98        | medium         | low    | 4      | namecheap   |
+| age.nexus  | premium   | $323.70   | $323.70       | high           | low    | 3      | namecheap   |
+| atar.nexus | available | $12.98    | $15.98        | medium         | low    | 4      | namecheap   |
+| ans.nexus  | premium   | $323.70   | $323.70       | high           | low    | 3      | namecheap   |
+| bmus.nexus | available | $12.98    | $15.98        | medium         | low    | 4      | namecheap   |
+| bib.nexus  | premium   | $76.70    | $76.70        | high           | low    | 3      | namecheap   |
+| flit.nexus | available | $12.98    | $15.98        | high           | low    | 4      | namecheap   |
+| bug.nexus  | premium   | $516.67   | $516.67       | high           | low    | 3      | spaceship   |
+| gamy.nexus | available | $12.98    | $15.98        | medium         | low    | 4      | namecheap   |
+| buy.nexus  | premium   | $1,298.70 | $1,298.70     | high           | medium | 3      | namecheap   |
+| genu.nexus | available | $12.98    | $15.98        | high           | low    | 4      | namecheap   |
+| cnn.nexus  | premium   | $161.25   | —             | high           | low    | 3      | name.com    |
+| loeb.nexus | available | $10.20    | $10.20        | high           | low    | 4      | cloudflare  |
+| din.nexus  | premium   | $311.25   | $311.25       | high           | low    | 3      | name.com    |
+| mown.nexus | available | $12.98    | $15.98        | medium         | low    | 4      | namecheap   |
+| ecg.nexus  | premium   | $59.20    | —             | high           | low    | 3      | unstoppable |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 27,254 live domains                        |
+| 1,000-row public sample | 29,693 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 64 high-demand names under $2,500          |
+| Basic exported fields   | 68 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .NEXUS One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .NEXUS One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
