@@ -40,6 +40,7 @@ fb67ec08-17ee-4769-9e38-d9a64b544dd0,godard.nexus,available,10.2,10.2,medium,low
 fe557c61-44ed-426d-9fd9-ef38d034ea3e,chilled.nexus,available,10.2,10.2,high,low,7,cloudflare,,,30/09/2026 12:12
 ba885f7e-6ef0-4d2c-b293-ac5333a98f9c,birds.nexus,premium,623.75,,high,low,5,name.com,,,
 bc796498-5b34-4f68-a77f-d640038b9e3b,statuesque.nexus,available,12.98,15.98,medium,low,10,namecheap,,,22/08/2026 14:32
+092389f0-5a1d-4da5-8b25-d54a0f656e1c,fetched.nexus,available,10.2,10.2,medium,low,7,cloudflare,,,02/10/2026 12:52
 a55841e5-0e58-4f9e-a4b7-7645b9b57802,ied.nexus,premium,59.2,,medium,low,3,unstoppable,,,01/10/2026 20:02
 768605f4-7d19-4a9c-a9bf-a332e7ae0c13,angelim.nexus,available,12.98,15.98,medium,low,7,namecheap,,,19/09/2026 03:59
 60300ec7-8b3b-4f70-9a45-0ba7be2f1f52,theatre.nexus,premium,323.7,323.7,high,low,7,namecheap,,,24/09/2026 23:54
@@ -48,6 +49,7 @@ a55841e5-0e58-4f9e-a4b7-7645b9b57802,ied.nexus,premium,59.2,,medium,low,3,unstop
 20483ba5-971f-41c0-8830-773e5f0f03e7,guard.nexus,premium,323.7,323.7,high,low,5,namecheap,,,29/09/2026 21:40
 ea71b68d-efde-4b58-91a4-5f87ef08d881,votive.nexus,available,12.98,15.98,medium,low,6,namecheap,,,13/09/2026 07:17
 1738ce6b-cc5b-447f-94ad-c788322dc407,backslider.nexus,available,12.98,15.98,medium,low,10,namecheap,,,21/09/2026 15:58
+19a9f4d2-8ff6-445c-a54a-eb60de5264d7,readability.nexus,available,10.52,10.52,high,low,11,spaceship,,,02/10/2026 11:47
 d9c491ab-1718-4bef-b4b0-c440c72da426,frizzy.nexus,available,12.98,15.98,medium,low,6,namecheap,,,18/08/2026 16:08
 84d6bced-b641-480e-8cc8-2c46a01caf97,clever.nexus,premium,648.7,648.7,high,medium,6,namecheap,,,23/09/2026 12:20
 e172308f-b104-4107-a411-c7f806bdd004,henan.nexus,premium,37.7,37.7,high,low,5,namecheap,,,29/09/2026 15:30
@@ -55,12 +57,13 @@ e172308f-b104-4107-a411-c7f806bdd004,henan.nexus,premium,37.7,37.7,high,low,5,na
 5b9bf90c-3779-4da1-adc1-990410dbeee2,betise.nexus,available,12.98,15.98,medium,low,6,namecheap,,,23/09/2026 11:18
 f1ebe207-a6ee-4f85-af8a-e476a34e1e75,macomb.nexus,available,10.52,10.52,medium,low,6,spaceship,,,30/09/2026 05:38
 01ad0450-ff5e-4f88-8132-dfe4711148f2,cups.nexus,premium,37.7,37.7,medium,low,4,namecheap,,,18/09/2026 07:17
-5208b6dd-191e-4313-9283-955eb6d6df6d,spaces.nexus,premium,516.67,516.67,medium,low,6,spaceship,,,28/09/2026 17:55
+5208b6dd-191e-4313-9283-955eb6d6df6d,spaces.nexus,premium,516.67,516.67,high,low,6,spaceship,,,02/10/2026 20:47
 32251842-5fc2-4ad7-85be-a1a944e738dc,drumming.nexus,available,10.52,10.52,high,low,8,spaceship,,,30/09/2026 01:23
 ad2cf273-1653-4709-bfc4-c220a41da9ae,tamaulipas.nexus,available,10.52,10.52,medium,low,10,spaceship,,,30/09/2026 21:17
 ba1d4504-8e7a-43f7-8eae-a58f693d3db1,anchorite.nexus,available,12.98,15.98,medium,low,9,namecheap,,,19/09/2026 03:44
 233229e8-6aa7-49aa-bb63-604db078d06a,compost.nexus,premium,29.2,,high,low,7,unstoppable,,,02/10/2026 04:25
 de1bb17d-54fe-42f6-a613-b4cc59f4d886,hickman.nexus,available,10.52,10.52,high,low,7,spaceship,,,28/09/2026 16:11
+3bd92d56-f266-46a1-aabe-ab2bd7c5fc74,ibc.nexus,premium,,,high,low,3,,,,02/10/2026 19:08
 f131c12b-d36b-442a-acc6-cb26491a3da7,ornate.nexus,available,12.98,15.98,high,low,6,namecheap,,,04/09/2026 17:59
 f46ef38b-6c40-4c24-80b4-6b4d6694f66d,uniat.nexus,available,12.98,15.98,medium,low,5,namecheap,,,12/09/2026 12:44
 5f0e6111-e410-4268-869e-77c4aa39bd77,patchy.nexus,available,12.98,15.98,medium,low,6,namecheap,,,08/09/2026 10:20
@@ -85,6 +88,7 @@ bab0e552-92cc-466a-9875-1e0e5889e758,noun.nexus,premium,29.2,,high,low,4,unstopp
 229950b5-e37b-4a8b-8471-e7161c3356ee,colorfast.nexus,available,12.98,15.98,medium,low,9,namecheap,,,12/08/2026 17:50
 d0ab2084-be78-4381-bd39-731d5d6b8947,tearful.nexus,available,12.98,15.98,medium,low,7,namecheap,,,14/08/2026 15:35
 61cfa61a-820f-40b9-84c0-a2a23e4e370a,pictural.nexus,available,12.98,15.98,high,medium,8,namecheap,,,08/09/2026 19:31
+3354e560-cde7-44b0-ab2a-9b86897c300a,raquel.nexus,premium,29.2,,high,low,6,unstoppable,,,02/10/2026 08:53
 92b60967-56b1-43ca-84ad-284039afb53b,assessing.nexus,available,14,,high,low,9,unstoppable,,,02/10/2026 02:39
 3b4e978b-aef0-4dc2-8b3f-6f7b82857a88,surprisingly.nexus,available,10.52,10.52,high,low,12,spaceship,,,01/10/2026 23:15
 ae249380-58ba-4538-97f0-aefb9a6e8841,jana.nexus,premium,29.2,,high,low,4,unstoppable,,,29/09/2026 15:30
@@ -97,10 +101,13 @@ fa7b56a2-c19b-4b51-a561-4c4d8c2632cb,avian.nexus,premium,36.25,36.25,high,low,5,
 7b7dc6b3-5a6f-4340-9f63-c82fc6d9c862,cannoneer.nexus,available,12.98,15.98,medium,low,9,namecheap,,,20/09/2026 11:44
 ed31f558-33c2-45cf-9c06-fc039d455bbe,amplitudes.nexus,available,14,,medium,low,10,unstoppable,,,30/09/2026 00:33
 d62c8c58-13a5-4fa1-96e2-670bc08c41fe,colbert.nexus,available,10.52,10.52,medium,low,7,spaceship,,,27/09/2026 12:41
+4eeeddcc-6c9b-45f4-ae6a-4f296cbe059e,steffen.nexus,available,12.98,15.98,high,low,7,namecheap,,,02/10/2026 18:29
 9e8c87aa-9b76-4033-9c42-688f3e830a7f,biddy.nexus,available,12.98,15.98,medium,low,5,namecheap,,,23/09/2026 13:45
 62c6c8f7-8629-4b81-9bda-8b2e30767d87,affiliates.nexus,premium,76.7,76.7,high,low,10,namecheap,,,21/09/2026 06:56
 a8815ef7-c2c3-45f5-9f5b-446647fa8a4c,programme.nexus,premium,73.75,73.75,high,low,9,name.com,,,24/09/2026 16:59
 a7170e87-5e34-43a3-9212-7b7caf811229,cleanse.nexus,available,10.2,10.2,high,low,7,cloudflare,,,01/10/2026 22:10
+2fd40a0d-d31c-4522-8f91-5b6230bff9b5,rda.nexus,premium,59.2,,high,low,3,unstoppable,,,03/10/2026 04:16
+3fcade01-af12-4013-be2b-a42de5e290ae,primaries.nexus,available,10.52,10.52,medium,low,9,spaceship,,,02/10/2026 12:50
 1bb0db89-0443-4c2f-855d-ab25be46c1d7,asap.nexus,premium,76.7,76.7,high,low,4,namecheap,,,13/09/2026 22:01
 db7c2f5f-3699-4961-9894-0a6dd02084c5,rossi.nexus,premium,73.75,73.75,high,low,5,name.com,,,27/09/2026 01:41
 c05f5a43-c5f3-4010-8ba8-bd656c6d3418,drought.nexus,available,10.52,10.52,medium,low,7,spaceship,,,29/09/2026 12:05
@@ -109,6 +116,7 @@ c14ed16f-ce42-469a-997d-838e3ee6f13c,border.nexus,premium,167.7,167.7,high,low,6
 99fad47e-db47-4a59-a404-e4cb39e233ae,enhanced.nexus,premium,73.75,73.75,high,low,8,name.com,,,17/08/2026 08:25
 c64177c1-8ce5-4b11-baef-6a0d59005b74,catechetic.nexus,available,12.98,15.98,medium,low,10,namecheap,,,11/08/2026 21:25
 2e8a9b1f-574c-49ce-9a17-953de4059472,recycle.nexus,premium,129.2,,high,low,7,unstoppable,,,01/10/2026 04:25
+2ec02c4e-a69e-405c-bee9-4270293adaf4,visalia.nexus,available,14,,medium,low,7,unstoppable,,,02/10/2026 20:44
 35431247-438d-4f58-8984-d48adb53256d,boreas.nexus,available,12.98,15.98,medium,low,6,namecheap,,,03/09/2026 21:36
 20d96217-d958-4755-b292-28f61ca5f8f9,armful.nexus,available,12.98,15.98,medium,low,6,namecheap,,,20/09/2026 06:50
 e3e76f9e-26ea-40d0-bb61-f06bb909fe09,resisted.nexus,available,10.2,10.2,medium,low,8,cloudflare,,,29/09/2026 16:36
@@ -143,10 +151,12 @@ ba4afd5f-778f-4a10-8d0e-c2476714903e,episcopal.nexus,available,12.98,15.98,mediu
 7d2cbfdd-31ba-4b27-ab2c-d98454d18f52,locations.nexus,premium,59.2,,medium,low,9,unstoppable,,,28/09/2026 17:11
 fc00baf6-ee87-4e77-b281-ca4ca7280c7e,clash.nexus,premium,167.7,167.7,high,low,5,namecheap,,,29/09/2026 09:50
 d4b53b7c-36f6-491b-8733-030107b4b3f9,argyle.nexus,premium,37.7,37.7,high,low,6,namecheap,,,20/09/2026 04:57
+9cb3b750-b97a-47ba-9a1b-5fe69ec49661,deliverance.nexus,available,10.81,10.81,medium,low,11,porkbun,,,02/10/2026 21:42
 9bb580ff-76a3-402c-8a71-fbd4b4df88e8,bug.nexus,premium,516.67,516.67,high,low,3,spaceship,,,29/09/2026 00:24
 7d4160bb-37ba-4668-aeab-ca47b21cffc8,dio.nexus,premium,,,high,low,3,,,,29/09/2026 09:47
 d4a044fa-44bc-4aed-93f7-4c520ef32fb8,humber.nexus,premium,30.22,30.22,high,low,6,spaceship,,,29/09/2026 19:13
 7cc33624-2fbf-4933-abef-5994ac3fb4f1,sympathetic.nexus,available,14,,high,low,11,unstoppable,,,01/10/2026 13:30
+a32805aa-e285-4f8b-8ceb-f1ec5745d0e6,deflect.nexus,available,10.2,10.2,high,low,7,cloudflare,,,02/10/2026 16:20
 fc565327-535f-47f7-a520-599bd648b646,khalil.nexus,available,10.52,10.52,medium,low,6,spaceship,,,29/09/2026 22:35
 ee5fbd8b-ffa6-459c-a640-ab0566e58d26,damascene.nexus,available,16.99,16.99,medium,low,9,name.com,,,13/08/2026 16:07
 278883c2-c8e5-42b3-806e-3077081b9b44,olibanum.nexus,available,12.98,15.98,medium,low,8,namecheap,,,16/09/2026 09:03
@@ -168,6 +178,7 @@ d24e8e34-e2c5-4a00-ae92-1fe042f52d22,emission.nexus,premium,,,high,low,8,,,,30/0
 f3aa9de4-d2a3-4739-b280-5b3c62c551b3,potato.nexus,premium,323.7,323.7,high,medium,6,namecheap,,,30/09/2026 00:23
 82b1daf6-c49e-4594-b5df-186c9a9c616e,filter.nexus,premium,623.75,623.75,high,low,6,name.com,,,25/09/2026 00:06
 b1672fd3-5537-49e0-a891-524ff261245e,boob.nexus,premium,76.7,76.7,medium,low,4,namecheap,,,29/09/2026 03:04
+8fb4a855-a610-4cee-b0d0-c67a0b786926,mvc.nexus,premium,,,high,low,3,,,,02/10/2026 18:44
 fc6346c1-5d66-4d86-8853-cb8c60668bb6,jensen.nexus,premium,76.7,76.7,high,low,6,namecheap,,,25/09/2026 07:58
 3cb785ce-88d2-4745-8f57-ebe0fd3ccb12,tractor.nexus,premium,,,high,low,7,,,,28/09/2026 11:01
 64b4b1ad-2c6a-4531-ba40-cffe43e21e32,homemade.nexus,premium,133.72,133.72,high,low,8,spaceship,,,29/09/2026 22:59
@@ -181,6 +192,7 @@ fc6346c1-5d66-4d86-8853-cb8c60668bb6,jensen.nexus,premium,76.7,76.7,high,low,6,n
 1ea4e190-7eee-47dd-8bd7-dd6451bb49c1,bahr.nexus,available,12.98,15.98,medium,low,4,namecheap,,,01/10/2026 16:27
 8abd7af6-d240-472e-8457-f9cd1feb40bd,yuri.nexus,premium,133.72,133.72,high,low,4,spaceship,,,28/09/2026 07:44
 5a49528c-7ae3-403b-8512-f765ad8b2516,mother.nexus,premium,311.25,,high,low,6,name.com,,,29/09/2026 19:00
+725dbf34-9721-4d44-ac1f-93e52baff58c,coffins.nexus,available,14,,low,low,7,unstoppable,,,02/10/2026 22:56
 3b5e2ee9-48e2-44a0-bfe2-f930b02cfa42,historian.nexus,available,14,,high,low,9,unstoppable,,,29/09/2026 13:03
 a643249e-6bfb-4f77-ab9a-41a2c16037ee,solomon.nexus,premium,64.93,64.93,high,low,7,porkbun,,,28/09/2026 20:31
 1da08445-025f-4f43-9b4a-bcd2281b26de,enlarged.nexus,available,12.98,15.98,high,low,8,namecheap,,,22/09/2026 22:37
@@ -236,7 +248,7 @@ cd7df982-a465-4980-95a0-a05acc2eb53c,circularly.nexus,available,12.98,15.98,medi
 eb1fe24d-73ad-4ea8-a318-b95f844188c5,offroader.nexus,available,12.98,15.98,medium,low,10,namecheap,,,18/09/2026 09:00
 6cbb1da0-8cf1-443f-91e9-9d547e7eea15,tournaments.nexus,available,14,,medium,low,11,unstoppable,,,02/10/2026 01:42
 7d69463a-7f06-415d-91a6-008366ea2943,grimy.nexus,available,12.98,15.98,medium,low,5,namecheap,,,09/08/2026 09:25
-42da7022-7ea6-49ff-981b-45530c4b48d7,medium.nexus,premium,516.67,516.67,high,low,6,spaceship,,,30/09/2026 05:58
+42da7022-7ea6-49ff-981b-45530c4b48d7,medium.nexus,premium,516.67,516.67,high,low,6,spaceship,,,02/10/2026 08:57
 14b96138-14db-48be-95e9-25dee9b681fd,flyer.nexus,premium,311.25,311.25,high,low,5,name.com,,,11/08/2026 05:11
 e1d57d06-ea29-495c-8f89-a736bebf733f,this.nexus,premium,648.7,648.7,high,medium,4,namecheap,,,30/09/2026 22:01
 7a34de4f-5d99-4360-ac32-1aa888c2b0d9,strategies.nexus,premium,61.27,61.27,medium,low,10,spaceship,,,30/09/2026 07:25
@@ -253,6 +265,7 @@ b469e61c-c66e-46a5-9078-063f54c3dccf,eliminate.nexus,available,14,,high,low,9,un
 f496ea46-adb2-4734-b125-4cde1dd775d2,inflatable.nexus,premium,36.25,36.25,high,low,10,name.com,,,22/08/2026 04:29
 223e16d2-a724-45e9-9c41-e6f7c2aaa752,affirmed.nexus,available,16.99,16.99,high,low,8,name.com,,,17/09/2026 14:27
 eae6d8c2-182b-46ff-a061-72687fa4bdf0,joyner.nexus,available,10.52,10.52,high,low,6,spaceship,,,01/10/2026 23:33
+1868ff3c-5f36-4304-908c-4fcc7647f9aa,mst.nexus,premium,,,high,low,3,,,,02/10/2026 16:09
 0bb811eb-18f4-40c0-aecd-a3969a0f7e61,gift.nexus,premium,1298.7,1298.7,high,low,4,namecheap,,,24/09/2026 22:20
 f50ddb44-cc9b-425a-a1e6-b56a9bd69728,accompanied.nexus,available,10.52,10.52,medium,low,11,spaceship,,,29/09/2026 10:27
 68876cc2-3dd7-4e3d-bd57-8137ff1c0e2e,proponent.nexus,available,12.98,15.98,high,low,9,namecheap,,,17/09/2026 11:45
@@ -281,6 +294,8 @@ aefb8bf8-f128-4b4d-b7ea-11ad5cab50cf,astronium.nexus,available,12.98,15.98,mediu
 3309d6c9-753e-45f6-933b-cf5b8e2a4d36,laundering.nexus,available,14,,medium,low,10,unstoppable,,,30/09/2026 10:23
 bd6179ca-efda-435e-bfbe-4055217696b0,barber.nexus,premium,311.25,,high,low,6,name.com,,,29/09/2026 01:08
 d4d6362c-cde2-4ec4-b7dc-fa84972f5a5a,devastated.nexus,available,14,,medium,low,10,unstoppable,,,28/09/2026 11:36
+2e9ad1fe-2260-4588-ac16-a24dab980eea,yolk.nexus,available,14,,high,low,4,unstoppable,,,02/10/2026 14:58
+e04ce860-5b97-4909-894f-c27209838d70,pathogen.nexus,available,10.52,10.52,medium,low,8,spaceship,,,02/10/2026 06:01
 d695cebc-57fd-4d4d-8993-d32b2127f05a,coffeeberry.nexus,available,15.98,,high,low,12,namecheap,,,
 572d488e-fac9-4b83-89c6-da6bf2f4f440,dreamy.nexus,premium,73.75,73.75,high,low,6,name.com,,,14/08/2026 18:48
 e043fb53-0269-4e7d-9cc3-cdc29afb1c84,nerve.nexus,premium,73.75,73.75,high,low,5,name.com,,,25/09/2026 23:41
@@ -299,12 +314,15 @@ f1282f65-2136-404f-913f-6561e93b7418,algolagnia.nexus,available,12.98,15.98,medi
 9d5ca5d3-3fb2-483d-87cc-dc3fef9defa5,fantastic.nexus,premium,167.7,167.7,high,medium,9,namecheap,,,22/09/2026 06:18
 72faab43-c0fd-49f9-8d7b-c1f55c459233,succeeds.nexus,available,14,,medium,low,8,unstoppable,,,30/09/2026 16:01
 7c7d10e7-8ed6-4fa1-9a0c-6134c36d3907,year.nexus,premium,257.92,257.92,high,low,4,spaceship,,,30/09/2026 14:04
+c6f9bd8d-a46f-48a4-8445-436f8d86a2d2,oca.nexus,premium,,,high,low,3,,,,02/10/2026 16:14
 9cb8e40a-6ba6-4f4e-8b07-5f6a8230bc9b,abaca.nexus,available,16.99,16.99,medium,low,5,name.com,,,16/09/2026 13:44
 cb422638-02b1-4b1b-a258-f483b01a83cb,cramp.nexus,available,10.52,10.52,medium,low,5,spaceship,,,30/09/2026 16:50
 7cfb4863-38a9-49bc-b332-c73b2d4615a7,clerk.nexus,premium,61.27,61.27,high,low,5,spaceship,,,29/09/2026 10:01
 5cb66f3d-41b1-442f-bda5-15e6884b6ef4,alexandre.nexus,premium,,,high,low,9,,,,27/09/2026 20:05
 d914a3ed-da0a-40a1-9311-ca1d4596bf4d,activate.nexus,premium,61.27,61.27,high,low,8,spaceship,,,28/09/2026 06:46
 43fb1979-af2b-4702-85c5-f2894117b1ed,torrey.nexus,available,10.81,10.81,medium,low,6,porkbun,,,29/09/2026 09:58
+7e116f8e-4de7-41d9-b62f-b2a4f049c274,breakout.nexus,premium,30.22,30.22,high,low,8,spaceship,,,02/10/2026 14:28
+e7c5d423-c665-48d8-b1cf-8d627e96d1ad,stereotypes.nexus,available,14,,medium,low,11,unstoppable,,,02/10/2026 13:30
 1eebcf60-d65e-4053-99f7-a87ca6d4b335,certification.nexus,premium,29.2,,medium,low,13,unstoppable,,,30/09/2026 14:36
 60dc7408-7ee8-47c1-bc3c-2f69a5665730,overhanded.nexus,available,12.98,15.98,medium,low,10,namecheap,,,04/09/2026 20:12
 4d79d46b-001a-430e-aea2-9a56e74e951f,bared.nexus,available,12.98,15.98,medium,low,5,namecheap,,,22/09/2026 17:24
@@ -319,9 +337,11 @@ ac23f875-3876-4c55-ad1f-bac1a395f4b0,earful.nexus,available,12.98,15.98,medium,l
 8f354c7f-c609-4f2e-b6f2-a1842905f653,ouse.nexus,available,10.52,10.52,medium,low,4,spaceship,,,01/10/2026 03:10
 50c32549-a919-470f-be75-ccbc78f238b8,jan.nexus,premium,249.2,,high,low,3,unstoppable,,,30/09/2026 00:39
 625c0161-92b4-46d9-9c38-1bc319724216,ensign.nexus,available,10.52,10.52,medium,low,6,spaceship,,,30/09/2026 17:11
+613c0b09-018e-4955-b928-e0f4ff0e8ba9,struct.nexus,premium,64.93,64.93,high,low,6,porkbun,,,02/10/2026 07:44
 93a41215-e640-4a80-a2b1-e297d62fc0c0,polychrome.nexus,available,12.98,15.98,high,low,10,namecheap,,,08/09/2026 23:11
 e7187af4-eabf-4756-ad3a-e4a356dd9740,azotic.nexus,available,12.98,15.98,medium,low,6,namecheap,,,08/08/2026 02:53
 67194374-ef76-4d86-9910-24f4434327b4,cheryl.nexus,premium,76.7,76.7,medium,low,6,namecheap,,,27/09/2026 07:16
+4e80e3f2-d430-4e59-8cf1-141f40f065f4,seco.nexus,premium,29.2,,high,low,4,unstoppable,,,03/10/2026 04:06
 1fe5dbad-11ee-4123-9f3e-f34a0fe6fe9e,pale.nexus,premium,76.7,76.7,high,low,4,namecheap,,,27/09/2026 02:35
 5d44b932-b415-483b-a2df-9f9b97b08e21,ideas.nexus,premium,623.75,,high,low,5,name.com,,,
 9a619655-0044-4043-bb9e-a5a5deaabcc2,buttermilk.nexus,available,12.98,15.98,high,low,10,namecheap,,,24/09/2026 11:20
@@ -332,6 +352,7 @@ f8dcf983-d9f2-489f-a9ec-4e2d14fb5933,mancha.nexus,available,10.81,10.81,medium,l
 31993cf4-6228-41ce-b4ec-bf3fee9845e1,pes.nexus,premium,,,high,low,3,,,,30/09/2026 01:41
 ddc95183-ef2f-48bb-a801-f0e12b8b6212,solvable.nexus,available,10.52,10.52,high,low,8,spaceship,,,27/09/2026 12:17
 153fc76b-1473-4f61-9fd5-8daacceef503,spacial.nexus,available,12.98,15.98,high,medium,7,namecheap,,,10/09/2026 15:08
+33f69677-9a5e-4aca-99b6-146b94c882cb,translocation.nexus,available,12.98,15.98,medium,low,13,namecheap,,,02/10/2026 11:29
 199f8fe1-092e-4e23-84a8-9b8d178bb178,floaty.nexus,available,12.98,15.98,high,low,6,namecheap,,,11/08/2026 10:08
 c8749b8a-0822-4d01-9f20-f45a3f33175a,aecium.nexus,available,12.98,15.98,medium,low,6,namecheap,,,17/09/2026 12:08
 e0c7e00f-3bfc-4543-b975-00beb7ca515f,brightness.nexus,available,10.52,10.52,high,low,10,spaceship,,,29/09/2026 04:19
@@ -345,18 +366,22 @@ c949507e-e66f-4de6-a6c7-4609845b0ad9,navigate.nexus,premium,76.7,76.7,high,low,8
 565d9018-f9c0-4e8d-b085-94328dcb5f21,ultimately.nexus,available,12.98,15.98,medium,low,10,namecheap,,,28/09/2026 12:39
 c9ac2fde-a827-47a4-990e-95d67213e8c3,fined.nexus,available,10.52,10.52,medium,low,5,spaceship,,,30/09/2026 15:19
 6a8ef327-b68b-46fe-a442-ae104cc784db,ife.nexus,premium,59.2,,medium,low,3,unstoppable,,,01/10/2026 23:39
+41397963-ffdc-4594-92fd-732ddfa302cb,hightower.nexus,available,10.2,10.2,medium,low,9,cloudflare,,,02/10/2026 10:29
 7e68b4c6-bfe3-47d3-ad20-2932b5f088c9,relativity.nexus,available,10.2,10.2,high,low,10,cloudflare,,,29/09/2026 12:09
 17a5c04f-886c-4848-afeb-b5319557f349,advancing.nexus,available,16.99,16.99,high,low,9,name.com,,,21/09/2026 20:51
 5ea48ff2-90e9-4777-aa57-423dcbb8f068,scentless.nexus,available,12.98,15.98,medium,low,9,namecheap,,,09/09/2026 23:00
 ef37638b-01f0-4084-b9b7-9e4f8fb5edcd,ebola.nexus,premium,,,medium,low,5,,,,30/09/2026 17:06
 f250a922-67a1-4dfe-af62-816be8ad4447,chesterton.nexus,available,14,,medium,low,10,unstoppable,,,30/09/2026 09:08
+6b112744-dcf7-44d3-b84d-2c4019b434a1,keeler.nexus,available,10.81,10.81,medium,low,6,porkbun,,,03/10/2026 03:59
 a9cd1d4a-ad9b-4780-807c-5f9296b40f54,osha.nexus,premium,30.22,30.22,high,low,4,spaceship,,,29/09/2026 13:36
 9f4cf315-7fd9-4313-9429-fc4c7f2866e4,bailor.nexus,available,12.98,15.98,medium,low,6,namecheap,,,21/09/2026 19:14
 b92242aa-39dc-4b53-9760-d1d2bfe981ed,anatomy.nexus,premium,133.72,133.72,high,low,7,spaceship,,,28/09/2026 21:14
+597bb6ff-10c1-402b-b28e-aa1952cf7e78,himalayas.nexus,available,10.52,10.52,high,low,9,spaceship,,,02/10/2026 15:43
 12251074-0a72-4568-acd2-9b7396ee8637,elevation.nexus,premium,73.75,73.75,high,low,9,name.com,,,24/08/2026 20:49
 ee8a77dc-99e1-4623-b2ff-c16a7ee443e2,pauli.nexus,premium,30.22,30.22,high,low,5,spaceship,,,29/09/2026 07:50
 48f690f9-8f1d-4cc3-af87-fbeec1a0674a,nih.nexus,premium,61.27,61.27,high,low,3,spaceship,,,28/09/2026 02:28
 51f98d59-b906-496e-8216-a73f3c28b9bd,shun.nexus,premium,37.7,37.7,high,low,4,namecheap,,,24/09/2026 02:00
+6feb76a6-8181-42ec-893e-71ea501b2bcc,awaited.nexus,available,10.81,10.81,medium,low,7,porkbun,,,02/10/2026 22:15
 b0bdb697-1c6b-464a-9de8-e9e609dc59f6,handsomely.nexus,available,12.98,15.98,high,low,10,namecheap,,,14/09/2026 22:57
 a471e34c-0adf-49ed-9016-ce30dbd962f3,basal.nexus,available,12.98,15.98,high,low,5,namecheap,,,08/08/2026 21:24
 97b98aff-2f21-4ba6-a6b7-473cada51b45,lapse.nexus,available,10.52,10.52,high,low,5,spaceship,,,27/09/2026 14:20
@@ -365,6 +390,7 @@ ae627a86-4b9d-43b5-8ed7-5a8c1758b055,rhythm.nexus,premium,167.7,167.7,high,low,6
 368fa367-8f7d-4ea1-b5bb-2bb107a99a03,rewrite.nexus,premium,30.22,30.22,high,low,7,spaceship,,,29/09/2026 13:47
 9e996b65-42a9-4b28-ad2f-c5189c4b2796,behring.nexus,available,12.98,15.98,high,low,7,namecheap,,,23/09/2026 04:03
 18434a45-daf0-4a9d-a3e1-3a18b166c57a,anymore.nexus,premium,29.2,,medium,low,7,unstoppable,,,28/09/2026 12:15
+5dc6c715-9e30-4428-99e7-73bb537f5602,graces.nexus,available,14,,high,low,6,unstoppable,,,02/10/2026 21:53
 a3a8f854-463b-4d41-a468-7846a26f385b,unclouded.nexus,available,12.98,15.98,medium,low,9,namecheap,,,12/08/2026 12:35
 89f09684-9425-4010-9b05-8724026d171f,phelps.nexus,available,12.98,15.98,high,low,6,namecheap,,,25/09/2026 18:39
 038ca39a-6e12-41c3-a1d9-64696c567eda,bunk.nexus,premium,37.7,37.7,medium,low,4,namecheap,,,03/09/2026 20:32
@@ -385,6 +411,7 @@ e4ca866a-edcf-431a-9450-c7e6344d075b,exceptionally.nexus,available,14,,medium,lo
 b03a963f-631d-4bba-93c0-986fb59a0fc2,megalithic.nexus,available,12.98,15.98,medium,low,10,namecheap,,,24/08/2026 19:24
 f30a7433-68b7-4071-b3fa-55a8daacc288,rumination.nexus,available,12.98,15.98,medium,low,10,namecheap,,,03/09/2026 11:31
 cdcb505d-2a1d-4b87-a43d-a2157be60a04,garret.nexus,available,12.98,15.98,medium,low,6,namecheap,,,07/08/2026 15:51
+27aa1b2a-8f41-42ef-9518-fa5b6fc26026,locket.nexus,premium,30.22,30.22,high,low,6,spaceship,,,03/10/2026 01:30
 94168b95-da59-45b5-ae7b-8b6333a69553,printers.nexus,premium,76.7,76.7,medium,low,8,namecheap,,,21/09/2026 00:30
 962ea23c-62e6-4053-ac2c-1f20c74aaa7d,infusion.nexus,premium,61.27,61.27,high,low,8,spaceship,,,01/10/2026 19:30
 dc44e092-a3e6-4c7f-9696-28df4a40f9c6,auf.nexus,premium,,,high,low,3,,,,30/09/2026 19:17
@@ -393,7 +420,7 @@ b031a490-161d-4dab-8acf-36e96ea61483,amor.nexus,premium,323.7,323.7,high,low,4,n
 02e6c1d8-7f2a-4b65-9565-1e1b52464ee5,uplifting.nexus,available,14,,high,low,9,unstoppable,,,01/10/2026 22:02
 04316550-ef84-4ac8-a746-315039c80326,captivity.nexus,available,10.2,10.2,high,low,9,cloudflare,,,29/09/2026 11:51
 0c639a8a-aca7-4c1d-bbac-d66182029989,dear.nexus,premium,623.75,623.75,high,low,4,name.com,,,22/09/2026 19:24
-21a2179b-9297-4c48-8530-118b314db586,analyst.nexus,premium,133.72,133.72,high,low,7,spaceship,,,28/09/2026 07:53
+21a2179b-9297-4c48-8530-118b314db586,analyst.nexus,premium,167.7,167.7,high,low,7,namecheap,,,02/10/2026 11:14
 bf930e01-9bd4-4979-bbb7-ba85e67d5919,goonie.nexus,available,12.98,15.98,medium,low,6,namecheap,,,23/09/2026 23:45
 caacba35-7a97-4685-9b57-55db28988cfb,crashes.nexus,available,14,,low,low,7,unstoppable,,,29/09/2026 05:45
 5788f505-d9b7-48e0-8d81-439830b8eb48,longview.nexus,available,10.52,10.52,medium,low,8,spaceship,,,30/09/2026 21:47
@@ -423,6 +450,7 @@ c0f0fbc3-f642-4f11-909e-0c32cb9a89ec,stimulation.nexus,available,14,,high,low,11
 1b2d4866-9d8c-4c1e-bf9a-93aa3789b895,doolittle.nexus,available,10.52,10.52,medium,low,9,spaceship,,,29/09/2026 00:40
 f94e72d7-0d2b-4198-972b-26ed7215e563,ladder.nexus,premium,129.2,,high,low,6,unstoppable,,,30/09/2026 01:55
 f419223f-2d7e-41c5-a3d8-1b6656d0b48a,skywards.nexus,available,12.98,15.98,medium,low,8,namecheap,,,10/09/2026 09:51
+faf16263-7262-4b88-a04d-e28a08e3828a,wanamaker.nexus,available,10.52,10.52,medium,low,9,spaceship,,,02/10/2026 15:52
 75a68d5a-ef4c-4d60-88f2-8ede3d4d6e25,anhinga.nexus,available,12.98,15.98,medium,low,7,namecheap,,,19/09/2026 08:18
 b25f2d27-ed83-4484-9c2a-a5c1036519b0,budapest.nexus,premium,61.27,61.27,high,low,8,spaceship,,,29/09/2026 11:48
 c48baf36-0bab-4c97-8f41-1bbca1d4c957,dances.nexus,premium,36.25,,high,low,6,name.com,,,
@@ -463,7 +491,9 @@ a7f8df6d-aa01-48ce-b4ba-087dc091bbad,whimsey.nexus,available,12.98,15.98,medium,
 d73db59d-d536-4306-a42c-65cbf8ee8352,headstrong.nexus,available,12.98,15.98,medium,low,10,namecheap,,,18/08/2026 16:35
 c714fa3f-e365-4993-8d04-1e8a62c38da4,standardize.nexus,available,10.2,10.2,high,low,11,cloudflare,,,01/10/2026 23:03
 a8425faf-5b42-46a3-8ef1-704e2c441986,vidal.nexus,premium,30.22,30.22,medium,low,5,spaceship,,,28/09/2026 14:04
+30756162-d033-49d4-a45d-52e7add84b45,gout.nexus,premium,30.22,30.22,medium,low,4,spaceship,,,03/10/2026 01:01
 989f174a-732d-4339-863a-777f138d5fd8,levi.nexus,premium,257.92,257.92,high,low,4,spaceship,,,29/09/2026 13:18
+7821f36e-e9ae-44f1-885f-bdd49e778233,stuttering.nexus,available,10.52,10.52,medium,low,10,spaceship,,,02/10/2026 07:31
 2d79185d-26ea-401e-a892-f0090fd7c3c2,hamster.nexus,premium,61.27,61.27,high,low,7,spaceship,,,01/10/2026 02:24
 71d7aa75-e619-44c6-bdff-e22cae5dfbd7,saccharine.nexus,available,12.98,15.98,medium,low,10,namecheap,,,12/08/2026 12:48
 e50e6fbd-b7f7-4afb-a1b4-0fca5561990f,asexually.nexus,available,12.98,15.98,medium,low,9,namecheap,,,13/09/2026 22:03
@@ -487,7 +517,8 @@ c7981cfa-b582-4ef3-b36a-84cf2dd92cff,consonant.nexus,available,12.98,15.98,high,
 a260cc40-97bd-4b7e-88d3-90ffb4895e90,volcano.nexus,premium,61.27,61.27,high,low,7,spaceship,,,30/09/2026 14:35
 f954d101-d9a1-4d1d-8c87-1296c24dfd10,nevertheless.nexus,available,14,,medium,low,12,unstoppable,,,28/09/2026 22:40
 6a74aacc-fd8c-4295-9226-474e24fe6597,limber.nexus,available,12.98,15.98,high,low,6,namecheap,,,23/08/2026 11:08
-2df3d38e-eaf3-449d-984e-8477d0acd993,advertisement.nexus,premium,73.75,,high,low,13,name.com,,,
+dd378306-4665-45ae-8abd-19d2828773c1,hosmer.nexus,available,10.52,10.52,medium,low,6,spaceship,,,02/10/2026 10:04
+2df3d38e-eaf3-449d-984e-8477d0acd993,advertisement.nexus,premium,61.27,61.27,high,low,13,spaceship,,,02/10/2026 15:22
 afa45c29-6c7d-498c-84e6-0ea2c7012f7b,tropic.nexus,premium,37.7,37.7,high,low,6,namecheap,,,11/09/2026 20:25
 3cbf4506-c0c6-43fa-90c3-4f8e203b6b72,hawke.nexus,premium,,,medium,low,5,,,,29/09/2026 15:41
 8c88f13d-9db3-4a32-a508-d33858a55990,his.nexus,premium,516.67,516.67,high,low,3,spaceship,,,01/10/2026 11:33
@@ -502,6 +533,7 @@ c84df24a-cb3c-4e60-82ce-3037192937b9,carthage.nexus,available,12.98,15.98,medium
 6415fa86-b6d0-4f1c-9186-7a87cc441825,torpid.nexus,available,12.98,15.98,medium,low,6,namecheap,,,14/08/2026 16:15
 9b7a22c1-d361-4d16-a4b9-867df61764ee,bankable.nexus,available,12.98,15.98,high,low,8,namecheap,,,08/08/2026 13:24
 2c7847a0-23b3-4965-9c88-28492c298351,flannel.nexus,premium,29.2,,high,low,7,unstoppable,,,02/10/2026 04:47
+6ab390df-cf43-425d-9060-dae6aef30006,mond.nexus,available,10.52,10.52,medium,low,4,spaceship,,,02/10/2026 23:20
 6ad99fc5-9062-41c3-bcb4-f5508f2e2f66,instability.nexus,available,10.52,10.52,medium,low,11,spaceship,,,29/09/2026 23:37
 f6c9fbe1-bd8f-4908-ac43-5f77e35b6daf,vincible.nexus,available,12.98,15.98,medium,low,8,namecheap,,,09/08/2026 05:42
 c1b7f292-e444-4990-90e6-c31647f95fa7,greasy.nexus,available,12.98,15.98,medium,low,6,namecheap,,,20/08/2026 19:35
@@ -511,12 +543,15 @@ f56e636e-b88c-41f3-b313-8e0d73d853d1,mademoiselle.nexus,available,10.2,10.2,high
 728cc3c2-0649-41c4-b22d-99657338faed,alternative.nexus,available,,,high,low,11,,,,26/09/2026 00:42
 d6615fac-e4b6-4a58-bae7-c71d391d2611,uncooked.nexus,available,12.98,15.98,medium,low,8,namecheap,,,12/09/2026 06:09
 5ae6480c-0430-4022-bf34-2e2dc7418829,shirty.nexus,available,12.98,15.98,high,medium,6,namecheap,,,10/09/2026 06:37
-5bacc3f2-f0da-4146-91a4-60ed39b7197f,named.nexus,premium,311.25,,high,low,5,name.com,,,
+5bacc3f2-f0da-4146-91a4-60ed39b7197f,named.nexus,premium,311.25,,high,low,5,name.com,,,02/10/2026 21:25
 2f296829-7a71-4458-b206-ae869634df8d,atoll.nexus,available,12.98,15.98,high,low,5,namecheap,,,20/09/2026 21:52
 4f3c3e83-27f4-4038-85ed-deefa4b7d545,clxxv.nexus,available,12.98,15.98,medium,low,5,namecheap,,,
+5fdad111-397b-4eab-a37f-8103dcf0fd06,embryos.nexus,available,10.52,10.52,medium,low,7,spaceship,,,02/10/2026 22:30
 b3543bc9-4a7d-4214-891c-c7585682aeb1,fours.nexus,available,12.98,15.98,high,low,5,namecheap,,,20/09/2026 08:08
 21cd7209-cc03-43bc-9e7a-5d5d512f6018,stealthy.nexus,available,12.98,15.98,medium,low,8,namecheap,,,18/08/2026 19:00
+e41ffdf0-b332-4acb-8eff-2952a1418aad,msnbc.nexus,available,12.98,15.98,high,low,5,namecheap,,,02/10/2026 10:38
 3d050421-5870-4c4c-a70b-5c1ff4ccd4ce,beret.nexus,available,12.98,15.98,high,low,5,namecheap,,,23/09/2026 09:15
+8e9c832b-96c6-4e4b-901e-2717d13c0fd8,interruptions.nexus,available,10.81,10.81,low,low,13,porkbun,,,02/10/2026 13:08
 a9e1256b-aad4-43ac-affa-1280a244e38e,thanks.nexus,premium,133.72,133.72,high,low,6,spaceship,,,30/09/2026 13:13
 c9ff597d-6fb5-4d0d-8145-160856895676,eristic.nexus,available,12.98,15.98,medium,low,7,namecheap,,,17/08/2026 12:17
 e9f4c734-5aa2-4d24-b070-a1ce895cf93b,tripod.nexus,premium,,,high,low,6,,,,30/09/2026 19:02
@@ -533,7 +568,7 @@ df763e8a-c9d6-4390-99d5-46561ec3e38d,ametria.nexus,available,12.98,15.98,medium,
 82e8363f-fd01-478a-b563-89934c19258a,anosmia.nexus,available,12.98,15.98,medium,low,7,namecheap,,,19/09/2026 11:51
 d574a653-259d-4ef6-bd59-2ba05c39300b,sigh.nexus,premium,30.22,30.22,high,low,4,spaceship,,,29/09/2026 20:20
 0e405266-5e4c-4f2f-93b9-cc65bf6cf869,mutinous.nexus,available,12.98,15.98,medium,low,8,namecheap,,,03/09/2026 11:55
-ec787d2f-77e3-4984-8be9-d14b5999428d,francisca.nexus,available,15.98,,high,low,9,namecheap,,,
+ec787d2f-77e3-4984-8be9-d14b5999428d,francisca.nexus,available,12.98,15.98,high,low,9,namecheap,,,02/10/2026 06:32
 f903f6cf-fb82-4219-9d0e-9f575ee5367b,disappear.nexus,available,12.98,15.98,high,low,9,namecheap,,,27/09/2026 05:58
 684a16dd-f6e8-493a-a941-a7fcd78ddd44,recreate.nexus,premium,37.7,37.7,high,low,8,namecheap,,,24/09/2026 14:10
 ca9da8b2-1bb5-462d-9948-baf5d8a19841,behind.nexus,premium,167.7,167.7,high,low,6,namecheap,,,22/09/2026 18:54
@@ -551,11 +586,15 @@ c5764a17-6535-4914-ad39-92d70daa9533,lanes.nexus,premium,32.18,32.18,medium,low,
 1ac40267-4212-401e-bbd9-2409996047d0,earns.nexus,available,12.98,15.98,medium,low,5,namecheap,,,01/10/2026 18:15
 7dea9e11-9402-40dd-a933-07adf525fc71,phylliform.nexus,available,12.98,15.98,high,medium,10,namecheap,,,08/09/2026 19:24
 8501153b-8996-471d-83a7-146baa64652d,gomez.nexus,premium,167.7,167.7,high,low,5,namecheap,,,25/09/2026 16:06
+b8adae9b-73b5-4582-8c42-a0c67d0fb9b6,prinz.nexus,available,10.2,10.2,high,low,5,cloudflare,,,02/10/2026 14:11
+7d00e347-edda-4ce6-92de-1d2c62e4da6e,stockbroker.nexus,available,10.2,10.2,high,low,11,cloudflare,,,03/10/2026 03:06
 15171cc3-1e97-41b1-8a7b-a06719fa83e7,signed.nexus,premium,161.25,161.25,high,low,6,name.com,,,18/08/2026 22:58
+54a11d9f-e7c6-4cab-b87f-d02a75470204,gallaudet.nexus,available,10.52,10.52,medium,low,9,spaceship,,,02/10/2026 15:23
 b6bcd60c-035f-4da3-ad53-30160f32eb13,leone.nexus,premium,59.2,,high,low,5,unstoppable,,,29/09/2026 19:32
 45d1c872-5364-4220-bead-d8afa73eccf9,salim.nexus,available,12.98,15.98,high,low,5,namecheap,,,19/09/2026 04:37
 cab69b22-e6c2-4475-88c5-8a1674c0cbe5,nana.nexus,premium,161.25,,high,low,4,name.com,,,01/10/2026 01:36
 0229da7d-edca-46c5-8434-4f798971f0f0,byzantine.nexus,available,12.98,15.98,medium,low,9,namecheap,,,11/08/2026 12:12
+796b4871-630a-479f-92a8-a88eea28c54f,bullitt.nexus,available,10.52,10.52,medium,low,7,spaceship,,,02/10/2026 10:47
 caa52b3a-0758-4b9f-aa75-b1123666b295,taiwan.nexus,premium,,,high,high,6,,,,29/09/2026 19:55
 7539a4f1-baad-4d37-a46c-1151652e90d1,quotable.nexus,available,12.98,15.98,medium,low,8,namecheap,,,09/09/2026 09:10
 a393d127-b58b-41d0-9c74-15085ebfd21e,langston.nexus,available,10.52,10.52,medium,low,8,spaceship,,,29/09/2026 09:59
@@ -593,10 +632,12 @@ f0b055e8-2280-423f-8c0f-9f2642ba0535,calciferol.nexus,available,16.99,16.99,medi
 3fea6815-682d-41a3-8de3-4dab90b8803d,andrade.nexus,available,14,,medium,low,7,unstoppable,,,29/09/2026 10:57
 87219854-c055-4f29-a55a-17db08d6303a,cooked.nexus,available,12.98,15.98,high,low,6,namecheap,,,23/09/2026 22:56
 7c53f3f2-f7f6-43cc-8ec8-1c14dfb65be5,mining.nexus,premium,648.7,648.7,high,low,6,namecheap,,,30/09/2026 04:33
+5685716f-2368-44e4-b3da-4913aafc3d5b,palestinian.nexus,available,10.52,10.52,high,low,11,spaceship,,,02/10/2026 06:50
 86cca852-ca15-4df7-a6c8-9e993709aa14,handcuffs.nexus,available,14,,medium,low,9,unstoppable,,,30/09/2026 14:17
 1e6cbc7c-b059-4af7-b2ca-4acece6d523e,comm.nexus,premium,,,high,low,4,,,,01/10/2026 22:44
 09335770-9174-4e18-8568-42ff6891af5e,sparrow.nexus,premium,167.7,167.7,high,low,7,namecheap,,,29/09/2026 00:43
 913799fa-b63d-49bb-aa0c-ff1b842a4175,subocean.nexus,available,12.98,15.98,low,low,8,namecheap,,,11/09/2026 00:32
+ad7ecede-9ef4-4dc9-98ea-cd112e8a193e,lima.nexus,premium,133.72,133.72,high,low,4,spaceship,,,02/10/2026 23:50
 7383333a-7b41-46f9-8fe2-7c5524cc373d,trollop.nexus,available,12.98,15.98,medium,low,7,namecheap,,,17/09/2026 10:23
 9f528814-1a55-4e8b-801a-58286daad577,painterly.nexus,available,12.98,15.98,medium,low,9,namecheap,,,04/09/2026 23:08
 fa6a63ae-fefe-4d0e-8167-57337b17040b,glass.nexus,premium,73.75,,high,low,5,name.com,,,29/09/2026 14:00
@@ -612,6 +653,7 @@ c80cc13d-9502-4e2b-86c4-245a2acc3df6,lotus.nexus,premium,257.92,257.92,high,high
 95435969-d23c-4398-bca1-fe83786791ab,saloons.nexus,available,12.98,15.98,medium,low,7,namecheap,,,19/09/2026 22:32
 99f47880-314b-4bd3-9a9d-ce04c92c9226,discontinue.nexus,available,14,,high,low,11,unstoppable,,,01/10/2026 05:15
 341d7329-f20f-430b-b1f1-d35cb2643571,leaky.nexus,available,12.98,15.98,medium,low,5,namecheap,,,22/08/2026 22:01
+47fe9279-ca14-42a1-8d5c-4c0c7dd80a41,skylight.nexus,premium,30.22,30.22,high,low,8,spaceship,,,03/10/2026 02:07
 e6a0c30a-8815-4374-a860-18258ae1d7bd,agenesis.nexus,available,12.98,15.98,medium,low,8,namecheap,,,17/09/2026 17:08
 f2692801-4a6d-4fa7-99c3-9b86177c54d8,barite.nexus,available,12.98,15.98,medium,low,6,namecheap,,,22/09/2026 06:13
 10ccf55d-30fe-484a-b0e1-a579025b1385,flashlight.nexus,premium,37.7,37.7,high,low,10,namecheap,,,29/09/2026 06:57
@@ -714,14 +756,16 @@ dfe0426b-7e21-4f48-974d-8eafc5c7716e,spaceship.nexus,premium,,,high,medium,9,,,,
 60029946-1a96-42a3-8b60-0ddd5f08edfb,motherlike.nexus,available,12.98,15.98,medium,low,10,namecheap,,,25/08/2026 07:04
 08cfd735-21a3-43a8-b6e0-923b7c8bd8f5,purblind.nexus,available,12.98,15.98,medium,low,8,namecheap,,,14/08/2026 07:58
 58eeb851-29cc-4034-8ef4-f6cb2d6ba47a,arise.nexus,premium,129.2,,high,low,5,unstoppable,,,28/09/2026 10:48
+2ee38ff1-9a6f-40cc-927a-647f6b21d052,mwe.nexus,premium,59.2,,high,low,3,unstoppable,,,02/10/2026 18:52
 bb5b8a2f-b3b4-406e-b41a-c6300a91c23c,shorty.nexus,premium,30.22,30.22,high,low,6,spaceship,,,30/09/2026 20:11
 35ea7930-8eae-4269-9230-cce60eac29fb,anonymous.nexus,premium,167.7,167.7,high,low,9,namecheap,,,22/09/2026 05:30
 a89ee58b-9f2c-4cb1-877c-b820a83dda16,underfoot.nexus,available,12.98,15.98,medium,low,9,namecheap,,,16/09/2026 09:56
 46282694-e57b-4616-9398-08d6ff6c73ba,tamed.nexus,available,12.98,15.98,high,low,5,namecheap,,,11/09/2026 07:46
 a0ea7a24-87f9-486f-8c82-da14e0423b32,evaluative.nexus,available,12.98,15.98,medium,low,10,namecheap,,,06/08/2026 08:13
 45a7e083-ba29-4a51-9730-59092783475e,stably.nexus,available,16.99,16.99,high,low,6,name.com,,,16/09/2026 06:43
+df5716a1-00f2-466f-835f-cf13bf85e311,smalley.nexus,available,14,,medium,low,7,unstoppable,,,02/10/2026 16:36
 a70795a5-73b9-4064-825f-40a093794936,brought.nexus,premium,36.25,,medium,low,7,name.com,,,
-512d564a-9f55-47f8-90b4-ff962c67c61b,robotic.nexus,premium,167.7,167.7,high,low,7,namecheap,,,29/09/2026 14:07
+512d564a-9f55-47f8-90b4-ff962c67c61b,robotic.nexus,premium,129.2,167.7,high,low,7,unstoppable,,,02/10/2026 22:08
 2ce203e4-1574-4652-a59a-c328b1bae123,fringe.nexus,premium,133.72,133.72,high,low,6,spaceship,,,29/09/2026 01:02
 2dd015b1-06ff-4e75-9427-5bb9f4ca8296,amply.nexus,available,12.98,15.98,medium,low,5,namecheap,,,13/09/2026 19:37
 62623b6a-3f30-4f42-a1a2-c20e1533005a,priests.nexus,available,12.98,15.98,medium,low,7,namecheap,,,18/09/2026 03:38
@@ -731,10 +775,11 @@ a70795a5-73b9-4064-825f-40a093794936,brought.nexus,premium,36.25,,medium,low,7,n
 877b2de8-06e2-4b9f-bece-5a0f9bd30ebc,detest.nexus,available,10.2,10.2,medium,low,6,cloudflare,,,29/09/2026 22:18
 2e6a55fe-cd5e-42f6-a408-d8b2bbe7085d,plausible.nexus,available,12.98,15.98,high,low,9,namecheap,,,08/09/2026 20:55
 af1133bc-4fdb-441e-b0ad-bb2fd60b7c7a,holocaust.nexus,available,10.52,10.52,medium,low,9,spaceship,,,29/09/2026 06:54
-ee395d68-e141-4b01-b628-e8ddfe148a6d,creation.nexus,premium,133.72,133.72,high,low,8,spaceship,,,30/09/2026 16:01
+ee395d68-e141-4b01-b628-e8ddfe148a6d,creation.nexus,premium,141.35,141.35,high,low,8,porkbun,,,03/10/2026 04:02
 a4aa3379-723d-48d6-866b-862c572710a3,squash.nexus,premium,167.7,167.7,high,low,6,namecheap,,,28/09/2026 06:22
 9487d221-66fb-4579-b6bc-afbdf70ef75c,annulus.nexus,available,12.98,15.98,medium,low,7,namecheap,,,19/09/2026 03:40
 ba934a1d-ce52-4c16-88fe-6e99fd383edd,none.nexus,premium,76.7,76.7,high,low,4,namecheap,,,25/09/2026 23:02
+0832f9c2-c61b-4112-b8b9-e278cafe4d5c,penzance.nexus,available,10.52,10.52,medium,low,8,spaceship,,,02/10/2026 19:38
 8c16f366-6327-411a-ba82-dc97e544ed78,hydroponic.nexus,available,12.98,15.98,medium,low,10,namecheap,,,06/08/2026 10:34
 3043dfad-c5a6-45bd-a4a1-3c2dce75b61d,skull.nexus,premium,76.7,76.7,high,low,5,namecheap,,,26/09/2026 00:19
 a471c620-5c0b-4afc-98f2-616195e8ca36,jumentous.nexus,available,12.98,15.98,low,low,9,namecheap,,,22/08/2026 14:21
@@ -750,7 +795,8 @@ b369dbbe-8a2c-4c78-a661-3ecc015ca128,blaming.nexus,available,10.81,10.81,medium,
 105806cc-ad77-4ebf-960d-fc542511232c,confronted.nexus,available,10.2,10.2,low,low,10,cloudflare,,,28/09/2026 23:23
 03d6edfc-ff28-46e2-9c56-34eb426e87d3,depart.nexus,premium,30.22,30.22,high,low,6,spaceship,,,28/09/2026 20:27
 ed8509e2-8f36-4970-8278-09c5745131ef,restive.nexus,available,12.98,15.98,medium,low,7,namecheap,,,15/08/2026 09:28
-8d133224-724c-466e-81ee-1c748237dc1b,fanta.nexus,premium,36.25,,high,low,5,name.com,,,
+8d133224-724c-466e-81ee-1c748237dc1b,fanta.nexus,premium,37.7,37.7,high,low,5,namecheap,,,02/10/2026 06:24
+12a0474b-a743-4ae8-8d4d-4ea1443ef617,mccomb.nexus,available,10.52,10.52,medium,low,6,spaceship,,,02/10/2026 20:13
 295d4185-0d32-4476-953d-aac55cad94e6,hung.nexus,premium,76.7,76.7,medium,low,4,namecheap,,,27/09/2026 08:46
 918f3c08-8d84-4ff9-b265-32821fb6cf20,isu.nexus,premium,59.2,,high,low,3,unstoppable,,,29/09/2026 21:42
 93158dbe-f6d1-4d79-93b4-fd96b969cd3c,saxons.nexus,available,14,,low,low,6,unstoppable,,,01/10/2026 16:26
@@ -784,6 +830,7 @@ d84853c1-eb8b-4cc9-9817-a35d2c8e931d,punch.nexus,premium,323.7,323.7,high,low,5,
 ca2975ab-4611-4a18-945a-52d26ae36d67,golf.nexus,premium,1034.17,1034.17,high,medium,4,spaceship,,,29/09/2026 20:59
 bdb576bf-037d-4c2b-94ab-9056419dee3c,dionysia.nexus,available,12.98,15.98,high,low,8,namecheap,,,21/09/2026 13:58
 02269c96-2bdb-4500-a43e-d20b992264e7,make.nexus,premium,1298.7,1298.7,high,medium,4,namecheap,,,27/09/2026 10:16
+a897fc44-359b-4d6d-a236-09edad1693d3,eto.nexus,premium,,,high,low,3,,,,02/10/2026 19:00
 b3b82499-0b4a-4aa2-a07d-da28568766ae,harriet.nexus,available,12.98,15.98,high,low,7,namecheap,,,27/09/2026 22:29
 ae5566bf-4ce6-40a9-8e02-e7340e0b2113,transmitted.nexus,available,12.98,15.98,medium,low,11,namecheap,,,16/09/2026 07:54
 7f2587e9-a8a3-4a10-9df3-7cd6d9f670b9,zeno.nexus,premium,29.2,,high,low,4,unstoppable,,,30/09/2026 03:11
@@ -801,23 +848,28 @@ c4366d8d-10b1-4f42-afa8-e0a402d06828,delays.nexus,available,10.52,10.52,low,low,
 3a29b9f8-2553-49ee-8dd3-9632df009e12,prison.nexus,premium,129.2,,high,low,6,unstoppable,,,30/09/2026 07:26
 7596ef81-c257-4613-83e5-395a9a8bedaa,anastrophe.nexus,available,12.98,15.98,medium,low,10,namecheap,,,19/09/2026 03:23
 516b6c74-282a-4597-bec2-2beeb8ea3cfa,bored.nexus,premium,161.25,161.25,high,low,5,name.com,,,23/09/2026 00:16
+077643b0-441c-46d9-87ea-25c0b02a0198,santi.nexus,premium,30.22,30.22,medium,low,5,spaceship,,,02/10/2026 20:15
 8b7d3299-aacf-4064-b588-28f19e85d3e0,comforts.nexus,available,12.98,15.98,high,low,8,namecheap,,,18/09/2026 18:50
 6cf51fd4-8557-45c4-850f-cafbaecbc1c0,comparison.nexus,premium,76.7,76.7,high,low,10,namecheap,,,24/09/2026 16:42
 97def95c-4166-4a99-be36-55fd2d43d4f2,muted.nexus,available,12.98,15.98,high,low,5,namecheap,,,21/08/2026 15:56
 bdba79c1-1d45-4bd8-bf82-e959cec607c8,washup.nexus,available,12.98,15.98,medium,low,6,namecheap,,,24/09/2026 22:42
 a4acf760-3708-4ef0-b74f-fbdc29a1dd25,solis.nexus,premium,,,high,low,5,,,,01/10/2026 11:23
 fe3744c1-70c9-4fe2-9d44-2559c049ed0c,linnaeus.nexus,available,10.52,10.52,medium,low,8,spaceship,,,28/09/2026 05:24
+5ad4804b-6e69-4202-a6ca-3871cc48c75f,honshu.nexus,available,12.98,15.98,medium,low,6,namecheap,,,02/10/2026 15:43
 bf432b78-150a-4a5f-a657-e36dfa9f36e8,slighting.nexus,available,12.98,15.98,medium,low,9,namecheap,,,09/08/2026 13:15
 7d223e70-d1ea-4f18-9da9-2f67e0e37401,ziegler.nexus,available,14,,high,low,7,unstoppable,,,28/09/2026 19:36
 f315442b-6e30-4262-83e0-c20b4141b31e,fitzpatrick.nexus,available,12.98,15.98,medium,low,11,namecheap,,,27/09/2026 07:56
+ef074275-29e8-429f-8079-3a13127c115c,clarified.nexus,available,10.52,10.52,medium,low,9,spaceship,,,02/10/2026 21:44
 388dd19e-3cd0-470d-8bae-29b46ae73457,saved.nexus,premium,272.35,272.35,high,low,5,porkbun,,,27/09/2026 18:05
 2d31a234-1cd4-4f35-ac40-310e4b811d13,sophomore.nexus,available,12.98,15.98,high,low,9,namecheap,,,10/09/2026 14:17
 47643e04-ebe5-406b-a6cb-f772f9467491,siberian.nexus,available,10.52,10.52,high,low,8,spaceship,,,27/09/2026 21:41
 563520a0-7592-4218-a3a5-f6d97f07a523,warner.nexus,premium,,,high,low,6,,,,28/09/2026 05:27
+f5367782-a8e1-4710-afbc-0dcc1e71fee0,afrika.nexus,premium,30.22,30.22,high,low,6,spaceship,,,02/10/2026 19:20
 a82bdedb-6110-4811-8074-65a43737ae34,americans.nexus,premium,76.7,76.7,medium,low,9,namecheap,,,08/09/2026 06:41
 3edb7775-18d7-46b2-9fd8-57d08587d8b5,handbasket.nexus,available,12.98,15.98,medium,low,10,namecheap,,,22/09/2026 11:03
+11822241-37cb-4b96-b3fe-47c5dd6745ea,bahama.nexus,available,10.81,10.81,high,low,6,porkbun,,,02/10/2026 07:30
 335b6e90-0600-4262-99e4-9c400858cf9c,starkly.nexus,available,12.98,15.98,medium,low,7,namecheap,,,16/09/2026 06:57
-8b946b21-7e72-4420-8b99-85bbb4f526c3,supplied.nexus,available,15.98,,medium,low,8,namecheap,,,
+8b946b21-7e72-4420-8b99-85bbb4f526c3,supplied.nexus,available,14,,medium,low,8,unstoppable,,,03/10/2026 00:54
 c7d874af-eeeb-4cdf-81e3-682abefd9719,petulant.nexus,available,12.98,15.98,medium,low,8,namecheap,,,22/08/2026 10:27
 9a67da74-f15d-4f83-82b4-d6c1543e7748,crafty.nexus,premium,76.7,76.7,high,low,6,namecheap,,,24/09/2026 01:24
 a2fee048-8f82-4d36-b276-995bd7bccfc7,buffet.nexus,premium,167.7,167.7,high,low,6,namecheap,,,19/09/2026 17:05
@@ -827,7 +879,7 @@ a2fee048-8f82-4d36-b276-995bd7bccfc7,buffet.nexus,premium,167.7,167.7,high,low,6
 1bea7f37-d646-41b9-b6bd-f2ad059a5cd9,autarchic.nexus,available,12.98,15.98,medium,low,9,namecheap,,,07/08/2026 18:36
 fa099fe3-189a-4fa0-849b-ab10288f161c,inner.nexus,premium,73.75,73.75,high,low,5,name.com,,,22/08/2026 05:54
 c4626fe1-2c4c-47f9-837b-b75e8dce75d6,guatemalan.nexus,available,12.98,15.98,high,low,10,namecheap,,,20/08/2026 20:45
-764591db-0226-4cb0-bc62-c851bdc29d99,shakira.nexus,available,15.98,,high,low,7,namecheap,,,
+764591db-0226-4cb0-bc62-c851bdc29d99,shakira.nexus,available,10.52,10.52,high,low,7,spaceship,,,02/10/2026 14:33
 3dc52948-3497-48db-82d7-d2260ac856d6,oblivious.nexus,available,10.2,10.2,high,low,9,cloudflare,,,01/10/2026 04:58
 8360c2ee-0166-4e97-8a9e-7ccd19217ed0,humour.nexus,premium,167.7,167.7,high,low,6,namecheap,,,24/09/2026 06:31
 03c95913-f3a2-40ad-9c9f-1632ed4ac140,rutherford.nexus,available,10.2,10.2,medium,low,10,cloudflare,,,01/10/2026 01:41
@@ -835,13 +887,14 @@ c4626fe1-2c4c-47f9-837b-b75e8dce75d6,guatemalan.nexus,available,12.98,15.98,high
 1dd632b3-d854-4197-97be-097e573f962d,steward.nexus,premium,29.2,,high,low,7,unstoppable,,,28/09/2026 18:50
 2423f787-ab85-4311-bc62-39d03f52651c,dresser.nexus,premium,76.7,76.7,high,low,7,namecheap,,,17/09/2026 05:17
 c5b05be0-8831-44d8-ab11-2765798ce96a,accretion.nexus,available,12.98,15.98,high,low,9,namecheap,,,16/09/2026 23:14
+0d338765-7de1-4d4e-a471-ac9ddd7df5a5,shevchenko.nexus,available,14,,medium,low,10,unstoppable,,,02/10/2026 06:22
 edf54cd6-62e8-405a-88a4-4fe8bef605fe,emptiness.nexus,available,10.2,10.2,medium,low,9,cloudflare,,,29/09/2026 18:45
 fb7d5bd4-a9f9-4e31-9cfb-9f09321d15d9,ice.nexus,premium,648.7,648.7,high,medium,3,namecheap,,,19/09/2026 17:13
 4a9b3691-06a6-4cf8-bf0c-534b509fceb1,khomeini.nexus,available,12.98,15.98,medium,low,8,namecheap,,,21/09/2026 10:36
 12eb91e6-9775-4371-82ac-07b5eb4c865a,tenfold.nexus,available,12.98,15.98,high,low,7,namecheap,,,14/08/2026 01:44
 c1fb4325-8ef3-4b6f-bf1f-041b8abf9acb,promethium.nexus,available,12.98,15.98,medium,low,10,namecheap,,,20/09/2026 23:23
-6925172d-f390-4d3f-869f-f8b419d88a4b,hosting.nexus,premium,249.2,,high,medium,7,unstoppable,,,28/09/2026 02:41
-182bd31e-96e2-4a15-b627-f740cd6d0a87,farmstand.nexus,available,15.98,,medium,low,10,namecheap,,,
+6925172d-f390-4d3f-869f-f8b419d88a4b,hosting.nexus,premium,272.35,272.35,high,medium,7,porkbun,,,02/10/2026 05:32
+182bd31e-96e2-4a15-b627-f740cd6d0a87,farmstand.nexus,available,12.98,15.98,high,low,10,namecheap,,,03/10/2026 02:04
 3b74351f-0fa6-4779-9ff5-5108ea540773,theorize.nexus,available,12.98,15.98,high,low,8,namecheap,,,24/09/2026 17:19
 6e497a51-2dd8-4630-8f32-e7c367283df7,affiliated.nexus,available,12.98,15.98,high,low,10,namecheap,,,
 177105f4-c778-4d56-b154-ce065d7ac48a,cnn.nexus,premium,133.72,133.72,high,low,3,spaceship,,,02/10/2026 04:30
@@ -892,7 +945,7 @@ f40b77d2-a3d7-4c43-a9e9-3e167918394a,underestimated.nexus,available,15.98,,mediu
 6e012855-25a5-4a7c-a5b4-a2c61b91c52d,difficulties.nexus,available,12.98,15.98,high,low,12,namecheap,,,17/09/2026 21:37
 ef6c8295-2f16-449d-b868-aed226a8bd78,gaping.nexus,available,12.98,15.98,high,low,6,namecheap,,,
 78b307f0-5c50-402d-a3fb-c60d83ca898c,oahu.nexus,available,12.98,15.98,medium,low,4,namecheap,,,28/09/2026 10:38
-9bfc4d03-0d52-49ce-bdd5-96a022362e1f,trades.nexus,premium,133.72,133.72,high,low,6,spaceship,,,30/09/2026 13:41
+9bfc4d03-0d52-49ce-bdd5-96a022362e1f,trades.nexus,premium,129.2,133.72,high,low,6,unstoppable,,,02/10/2026 23:40
 03e60b34-b6b0-4b3b-9ca4-61b1a2be5675,balustrade.nexus,available,12.98,15.98,high,low,10,namecheap,,,22/09/2026 00:29
 0ce4031c-3d83-46d2-a91b-c0b250eb405a,optimism.nexus,available,10.52,10.52,high,low,8,spaceship,,,29/09/2026 07:46
 39409e9d-2eba-4c2a-8d43-ef44ea4d53e4,unspaced.nexus,available,12.98,15.98,low,low,8,namecheap,,,12/09/2026 20:24
@@ -925,7 +978,7 @@ ec0894a8-b192-48e1-94f4-d19d2e02bee1,cager.nexus,available,12.98,15.98,medium,lo
 6900e882-cf0e-4a5d-9f19-4f6e309317bc,pervert.nexus,available,16.99,16.99,medium,low,7,name.com,,,23/09/2026 23:54
 9a44f752-dcfc-4e7b-bca6-84cd5be185da,attlee.nexus,available,12.98,15.98,medium,low,6,namecheap,,,16/09/2026 12:16
 1c2fa89d-d96e-42fd-9021-a923c831008b,friday.nexus,premium,648.7,648.7,high,low,6,namecheap,,,25/09/2026 06:11
-0621ef39-8238-43a6-8c24-8f7ae31d318e,innovator.nexus,available,10.52,10.52,high,low,9,spaceship,,,28/09/2026 02:49
+0621ef39-8238-43a6-8c24-8f7ae31d318e,innovator.nexus,available,10.2,10.2,high,low,9,cloudflare,,,02/10/2026 05:45
 ce7b6e89-a26d-4cdf-9681-7a1343d5e001,venezia.nexus,premium,76.7,76.7,high,low,7,namecheap,,,30/09/2026 11:17
 48f807e0-ecc6-42ba-844b-bb0b90149544,exogenic.nexus,available,12.98,15.98,medium,low,8,namecheap,,,17/08/2026 17:34
 abba0fb0-a245-426b-be04-07d061f1092b,disorders.nexus,available,16.99,16.99,medium,low,9,name.com,,,20/09/2026 00:40
@@ -945,57 +998,4 @@ c21e8d74-af8c-4770-83cc-b6825174f961,schreiber.nexus,available,14,,high,low,9,un
 20e2b09a-3c0c-41a4-92e1-326de2faa123,such.nexus,premium,311.25,,high,low,4,name.com,,,28/09/2026 01:50
 ffac41bd-9a1d-4f46-aa05-3a954410b410,unweaned.nexus,available,12.98,15.98,low,low,8,namecheap,,,12/09/2026 22:29
 df5679ec-7f96-43cf-99d8-9d8d96f2b8d3,rai.nexus,premium,141.35,141.35,high,low,3,porkbun,,,28/09/2026 04:12
-2db5d412-cb41-4bd0-ba9b-d73d6d8ae918,stagnant.nexus,available,12.98,15.98,medium,low,8,namecheap,,,25/08/2026 06:25
-c505084a-05a7-48c8-ac06-3321f4a371c2,neglected.nexus,available,12.98,15.98,medium,low,9,namecheap,,,21/08/2026 18:36
-099df998-30b0-417f-920d-19f5f86973b5,gag.nexus,premium,61.27,61.27,high,low,3,spaceship,,,29/09/2026 20:25
-b748fff0-1b92-4e90-8d89-346c5b8fdfff,beowulf.nexus,available,16.99,16.99,medium,low,7,name.com,,,23/09/2026 09:04
-4065c5cf-6460-40d9-aa42-b860e0a0b4dc,tahiti.nexus,premium,30.22,30.22,high,low,6,spaceship,,,29/09/2026 20:28
-b19a3dc6-a26a-40d6-a3df-dd9d529dcdad,capable.nexus,premium,167.7,167.7,high,low,7,namecheap,,,21/09/2026 18:33
-326f88a3-7319-479c-80a1-240a4a432b26,firsthand.nexus,available,10.2,10.2,high,low,9,cloudflare,,,01/10/2026 13:24
-a7ccec14-1ff0-4cd1-80f1-4e9dea5f27d2,franchises.nexus,available,10.52,10.52,medium,low,10,spaceship,,,02/10/2026 03:34
-1b0ec4dc-8b27-47b1-b422-26042e9bc379,colleges.nexus,premium,,,medium,low,8,,,,29/09/2026 05:34
-469ed351-1286-42de-a1eb-3a7195e3d7d0,meth.nexus,premium,37.7,37.7,high,low,4,namecheap,,,24/09/2026 21:56
-78ce14fb-6ccc-431c-9a92-dbc14bf9805f,shaver.nexus,premium,36.25,36.25,medium,low,6,name.com,,,25/08/2026 00:03
-f521458b-284f-4637-8f8b-f63162f7c6b5,mosher.nexus,available,10.2,10.2,medium,low,6,cloudflare,,,01/10/2026 23:17
-36903e9a-812f-4285-b8a7-b2a81dc343f2,vent.nexus,premium,133.72,133.72,high,low,4,spaceship,,,30/09/2026 14:25
-11c2e339-b7ef-40c8-865b-d9284a588003,refunds.nexus,available,12.98,15.98,medium,low,7,namecheap,,,20/09/2026 14:13
-bf912e40-999e-4c1b-aab0-0db134ca1249,surf.nexus,premium,648.7,648.7,high,low,4,namecheap,,,24/09/2026 08:25
-8564762c-244d-48b9-a44e-bf5e205352a5,prominence.nexus,available,12.98,15.98,high,low,10,namecheap,,,24/09/2026 11:05
-3d965c8b-30fa-4ff1-a793-a8461c1bdd38,hoopla.nexus,available,12.98,15.98,high,low,6,namecheap,,,21/09/2026 23:33
-05e96be0-42f4-4f5d-979b-0728505cc016,tower.nexus,premium,311.25,,high,low,5,name.com,,,29/09/2026 23:19
-b5a277bf-abc0-4420-9627-c7637d8888cd,oss.nexus,premium,61.27,61.27,high,low,3,spaceship,,,28/09/2026 21:16
-959022ae-d767-4508-80f4-245268768580,alluring.nexus,available,12.98,15.98,high,low,8,namecheap,,,22/09/2026 01:34
-eb7d61d1-e401-4758-a5d5-313f29d55acd,enforcement.nexus,premium,,,medium,low,11,,,,28/09/2026 08:21
-81a67b0d-6360-4099-b502-e454edf096a3,feral.nexus,premium,36.25,36.25,high,low,5,name.com,,,18/08/2026 01:10
-648c8bb6-1297-43c5-8cd5-700581aa6011,spy.nexus,premium,648.7,648.7,high,low,3,namecheap,,,25/09/2026 10:42
-c9dc57af-0d75-45fa-899d-e8922854e124,propensity.nexus,available,12.98,15.98,high,low,10,namecheap,,,22/08/2026 22:09
-d43434cc-c437-4f2c-b54c-478cc2b26332,chewable.nexus,available,12.98,15.98,medium,low,8,namecheap,,,12/08/2026 04:28
-63e08957-3516-4cae-9757-dc06c4ff72d0,implement.nexus,premium,64.93,64.93,high,low,9,porkbun,,,29/09/2026 13:06
-036dbad2-6cf1-41c3-bf21-b538fc8ccc37,inquiring.nexus,available,12.98,15.98,high,low,9,namecheap,,,22/08/2026 06:19
-4ba2be17-4dda-424a-a453-4726329e0f90,canceled.nexus,available,10.52,10.52,medium,low,8,spaceship,,,27/09/2026 22:41
-f946a66c-1905-426a-bf40-8253f2cd54f4,repentant.nexus,available,12.98,15.98,medium,low,9,namecheap,,,08/09/2026 14:32
-285351df-5444-4e32-b4ee-2a3104ada49f,diversity.nexus,premium,133.72,133.72,high,low,9,spaceship,,,29/09/2026 16:23
-75016da9-6ddc-46a8-8bd4-b22d31d3dac7,orbicular.nexus,available,12.98,15.98,medium,low,9,namecheap,,,08/08/2026 10:11
-2e78f327-89bc-4ec8-a388-e7c3ef4e891d,mangonel.nexus,available,12.98,15.98,medium,low,8,namecheap,,,20/09/2026 00:37
-c236c1f2-a638-4219-bf82-15b1d6f647fe,birthplace.nexus,available,12.98,15.98,high,low,10,namecheap,,,23/09/2026 21:18
-7b0e7f66-65b8-43e0-8273-a08a087eb6b1,measurably.nexus,available,12.98,15.98,medium,low,10,namecheap,,,15/09/2026 13:50
-207e48cf-57cf-4e14-8b64-831b8d4d30ca,pronunciation.nexus,available,10.52,10.52,medium,low,13,spaceship,,,30/09/2026 14:07
-fa035de4-0177-4bce-96c6-05e87d080b86,cavalier.nexus,available,12.98,15.98,high,low,8,namecheap,,,11/08/2026 22:48
-4180a0b1-93a0-49ce-a06d-e2429599b1ef,bioscope.nexus,available,12.98,15.98,medium,low,8,namecheap,,,23/09/2026 19:01
-8ab7c086-93d1-4603-9f79-2f3e26593055,visibility.nexus,premium,29.2,,high,low,10,unstoppable,,,30/09/2026 14:30
-284ba668-6445-44b5-bf14-6c8ffdad8c80,mummy.nexus,premium,30.22,30.22,high,low,5,spaceship,,,28/09/2026 10:18
-1e458523-df5c-4ed1-af2d-2b0c075aca19,cheering.nexus,available,12.98,15.98,high,low,8,namecheap,,,12/08/2026 03:45
-26ddc7db-623b-47e7-b93e-491c7f1a4029,aleut.nexus,available,12.98,15.98,high,low,5,namecheap,,,
-864ebff0-9939-45ef-84dc-fdad38e2ca8f,tryst.nexus,available,16.99,16.99,high,low,5,name.com,,,20/09/2026 16:22
-d993f731-5451-4c7d-b7f1-8f2c84d7ca1c,purposely.nexus,available,12.98,15.98,medium,low,9,namecheap,,,13/09/2026 17:36
-6f348996-13ae-485a-b2c5-c8918495c196,dalhousie.nexus,available,14,,medium,low,9,unstoppable,,,29/09/2026 21:41
-b676b1ba-6e54-4553-8d3c-74e79d5d383d,remark.nexus,premium,61.27,61.27,high,low,6,spaceship,,,28/09/2026 09:26
-a6f92785-1350-411e-aed1-f8a40335bc0d,pricey.nexus,available,12.98,15.98,medium,low,6,namecheap,,,21/08/2026 08:57
-2db73d91-2537-4950-b6a4-4920119f6cb7,lentic.nexus,available,12.98,15.98,medium,low,6,namecheap,,,22/08/2026 23:50
-dc583676-33b9-4ee5-8965-fde237e43a1c,measurable.nexus,available,12.98,15.98,high,low,10,namecheap,,,24/08/2026 18:27
-af430fc8-5d37-429c-87e0-962f057d9365,tenor.nexus,premium,37.7,37.7,high,low,5,namecheap,,,11/09/2026 11:24
-94bcc9b9-b670-4901-8f8c-8069a1a21c6e,azeri.nexus,available,12.98,15.98,high,low,5,namecheap,,,21/09/2026 11:12
-cdb6918c-2098-46d6-9f6f-37041869ceff,heartfelt.nexus,available,12.98,15.98,high,low,9,namecheap,,,21/08/2026 02:11
-ede796b5-bc2e-4848-82cf-a9ec7a010529,acardia.nexus,available,12.98,15.98,medium,low,7,namecheap,,,16/09/2026 21:17
-fbfd1d65-6b26-4726-a832-b26c5c829866,suggestion.nexus,premium,37.7,37.7,high,low,10,namecheap,,,25/09/2026 07:41
-6b6660f9-cbc8-4635-89f0-50208c55c6b9,moulds.nexus,available,12.98,15.98,medium,low,6,namecheap,,,20/09/2026 13:57
+72a2c519-6f67-4d57-b62e-31e6147e4adb,anz.nexus,premium,59.2,,high,medium,3,unstoppable,,,02/10/2026 20:34
